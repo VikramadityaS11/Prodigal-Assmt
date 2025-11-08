@@ -1,0 +1,188 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Debt Resolution Partners. I'm Nicole, a virtual agent. How can I help you today?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "This is ridiculous. Why are you calling me every single day?",
+    "etime": 13
+  },
+  {
+    "role": "Assistant",
+    "stime": 13,
+    "utterance": "I apologize for any frustration. I'd like to help address your concerns. May I have your phone number to access your account?",
+    "etime": 21
+  },
+  {
+    "role": "User",
+    "stime": 21,
+    "utterance": "No. I'm tired of this. Put me through to a real person.",
+    "etime": 26
+  },
+  {
+    "role": "Assistant",
+    "stime": 26,
+    "utterance": "I understand you'd prefer to speak with someone. I can help you right now, or I can transfer you to a live agent. Which would you prefer?",
+    "etime": 35
+  },
+  {
+    "role": "User",
+    "stime": 35,
+    "utterance": "A real person. Not a robot.",
+    "etime": 38
+  },
+  {
+    "role": "Assistant",
+    "stime": 38,
+    "utterance": "I understand. Before I transfer you, I need to verify your identity for security purposes. May I have your phone number?",
+    "etime": 46
+  },
+  {
+    "role": "User",
+    "stime": 46,
+    "utterance": "This is insane. You called me! You should know who I am. Seven zero two nine nine nine one one one one.",
+    "etime": 55
+  },
+  {
+    "role": "Assistant",
+    "stime": 55,
+    "utterance": "Thank you. Let me confirm, seven zero two nine nine nine one one one one?",
+    "etime": 61
+  },
+  {
+    "role": "User",
+    "stime": 61,
+    "utterance": "Yes! Now transfer me.",
+    "etime": 63
+  },
+  {
+    "role": "Assistant",
+    "stime": 63,
+    "utterance": "I will transfer you in just a moment. I need to verify your full name first.",
+    "etime": 68
+  },
+  {
+    "role": "User",
+    "stime": 68,
+    "utterance": "Are you kidding me? This is harassment.",
+    "etime": 72
+  },
+  {
+    "role": "Assistant",
+    "stime": 72,
+    "utterance": "I apologize, but I do need to verify your identity before I can transfer you to another agent. It's for your protection and privacy. May I have your name?",
+    "etime": 82
+  },
+  {
+    "role": "User",
+    "stime": 82,
+    "utterance": "This is absolutely unbelievable. My name is Sarah Johnson.",
+    "etime": 88
+  },
+  {
+    "role": "Assistant",
+    "stime": 88,
+    "utterance": "Thank you, Sarah. I just need one more piece of information. Can you provide your date of birth?",
+    "etime": 94
+  },
+  {
+    "role": "User",
+    "stime": 94,
+    "utterance": "No! I'm not giving you anything else. I want to speak to your supervisor right now.",
+    "etime": 100
+  },
+  {
+    "role": "Assistant",
+    "stime": 100,
+    "utterance": "I understand you're frustrated. A supervisor would also need to verify your identity before discussing your account. If you'd prefer, I can transfer you to them directly, but they will ask for the same verification.",
+    "etime": 114
+  },
+  {
+    "role": "User",
+    "stime": 114,
+    "utterance": "Fine! My date of birth is July twenty second nineteen eighty nine. Happy now?",
+    "etime": 122
+  },
+  {
+    "role": "Assistant",
+    "stime": 122,
+    "utterance": "Thank you for that information, Sarah. Let me pull up your account. One moment please.",
+    "etime": 130
+  },
+  {
+    "role": "Assistant",
+    "stime": 130,
+    "utterance": "I see your account here. This is an attempt to collect a debt. Before I transfer you, can you tell me what specifically you'd like to discuss with a supervisor?",
+    "etime": 141
+  },
+  {
+    "role": "User",
+    "stime": 141,
+    "utterance": "I want you to stop calling me. You call me every day, sometimes multiple times a day. It's harassment.",
+    "etime": 149
+  },
+  {
+    "role": "Assistant",
+    "stime": 149,
+    "utterance": "I understand that's very frustrating. Let me look at your call history. I see there have been several attempts to reach you over the past few weeks. These calls are regarding an outstanding balance on your account.",
+    "etime": 163
+  },
+  {
+    "role": "User",
+    "stime": 163,
+    "utterance": "I don't care what it's about. You need to stop calling me.",
+    "etime": 168
+  },
+  {
+    "role": "Assistant",
+    "stime": 168,
+    "utterance": "I can help you with that. There are a few ways to reduce or stop the calls. We could discuss payment options, set up a payment plan, or if you're unable to pay, we could discuss other arrangements. Which would you prefer?",
+    "etime": 183
+  },
+  {
+    "role": "User",
+    "stime": 183,
+    "utterance": "I don't want to discuss anything with you. I want a real human being.",
+    "etime": 189
+  },
+  {
+    "role": "Assistant",
+    "stime": 189,
+    "utterance": "I completely understand. I'm transferring you to a supervisor who can assist you. Please hold while I connect you.",
+    "etime": 197
+  },
+  {
+    "role": "User",
+    "stime": 197,
+    "utterance": "Finally.",
+    "etime": 199
+  },
+  {
+    "role": "Assistant",
+    "stime": 199,
+    "utterance": "Before I transfer you, I want to make sure the supervisor has all the information they need. Your account shows a balance of one thousand two hundred thirty five dollars. Is this regarding that balance?",
+    "etime": 212
+  },
+  {
+    "role": "User",
+    "stime": 212,
+    "utterance": "I don't know anything about that. Just transfer me already.",
+    "etime": 217
+  },
+  {
+    "role": "Assistant",
+    "stime": 217,
+    "utterance": "I understand. I'm transferring you now to a live agent who will be able to assist you further. Please hold for just a moment.",
+    "etime": 226
+  },
+  {
+    "role": "Assistant",
+    "stime": 226,
+    "utterance": "Thank you for your patience, Sarah. I'm connecting you now. The supervisor will be with you shortly.",
+    "etime": 231
+  }
+]

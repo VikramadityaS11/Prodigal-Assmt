@@ -1,0 +1,350 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Debt Management Solutions. I'm Thomas, a virtual agent. How can I help you today?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "Hi, I need to make a payment on my account.",
+    "etime": 12
+  },
+  {
+    "role": "Assistant",
+    "stime": 12,
+    "utterance": "I'd be happy to help you with that. Can you provide your phone number?",
+    "etime": 17
+  },
+  {
+    "role": "User",
+    "stime": 17,
+    "utterance": "Yes, it's seven zero two five five five six seven eight nine.",
+    "etime": 24
+  },
+  {
+    "role": "Assistant",
+    "stime": 24,
+    "utterance": "Thank you. Let me confirm that's seven zero two five five five six seven eight nine?",
+    "etime": 31
+  },
+  {
+    "role": "User",
+    "stime": 31,
+    "utterance": "Correct.",
+    "etime": 32
+  },
+  {
+    "role": "Assistant",
+    "stime": 32,
+    "utterance": "May I have your full name?",
+    "etime": 35
+  },
+  {
+    "role": "User",
+    "stime": 35,
+    "utterance": "Patricia Williams.",
+    "etime": 38
+  },
+  {
+    "role": "Assistant",
+    "stime": 38,
+    "utterance": "And your date of birth?",
+    "etime": 40
+  },
+  {
+    "role": "User",
+    "stime": 40,
+    "utterance": "April tenth nineteen eighty three.",
+    "etime": 45
+  },
+  {
+    "role": "Assistant",
+    "stime": 45,
+    "utterance": "Thank you, Patricia. This is an attempt to collect a debt. I see you have a balance of five hundred twelve dollars on your account. Would you like to pay that in full today?",
+    "etime": 57
+  },
+  {
+    "role": "User",
+    "stime": 57,
+    "utterance": "Yes, I want to get this cleared up. What's this from again?",
+    "etime": 62
+  },
+  {
+    "role": "Assistant",
+    "stime": 62,
+    "utterance": "This is from a telecommunications account with Vegas Telecom that went unpaid. The account was closed in June of this year.",
+    "etime": 72
+  },
+  {
+    "role": "User",
+    "stime": 72,
+    "utterance": "Oh right, when I switched providers. I thought they said I was all paid up.",
+    "etime": 78
+  },
+  {
+    "role": "Assistant",
+    "stime": 78,
+    "utterance": "There was likely a final bill or early termination fee that came after you switched. That's pretty common with telecom companies.",
+    "etime": 87
+  },
+  {
+    "role": "User",
+    "stime": 87,
+    "utterance": "That's annoying. They never made that clear to me.",
+    "etime": 91
+  },
+  {
+    "role": "Assistant",
+    "stime": 91,
+    "utterance": "I understand the frustration. Unfortunately, it's in the terms of service, but it's easy to miss. The good news is you can take care of it today and put it behind you.",
+    "etime": 102
+  },
+  {
+    "role": "User",
+    "stime": 102,
+    "utterance": "Yeah, I guess so. How does this affect my credit?",
+    "etime": 106
+  },
+  {
+    "role": "Assistant",
+    "stime": 106,
+    "utterance": "It's currently showing as a collection account on your credit report. Paying it off will show it as paid, which is better than unpaid, though the collection record itself may remain on your report for up to seven years.",
+    "etime": 120
+  },
+  {
+    "role": "User",
+    "stime": 120,
+    "utterance": "Seven years? That seems excessive.",
+    "etime": 123
+  },
+  {
+    "role": "Assistant",
+    "stime": 123,
+    "utterance": "That's the standard reporting period for collection accounts under credit reporting laws. However, the impact on your credit score decreases over time, especially once it's paid.",
+    "etime": 135
+  },
+  {
+    "role": "User",
+    "stime": 135,
+    "utterance": "Okay. Well, let's get it paid then.",
+    "etime": 139
+  },
+  {
+    "role": "Assistant",
+    "stime": 139,
+    "utterance": "Excellent. We accept Visa and Mastercard. Which would you prefer?",
+    "etime": 144
+  },
+  {
+    "role": "User",
+    "stime": 144,
+    "utterance": "I'll use my Mastercard.",
+    "etime": 146
+  },
+  {
+    "role": "Assistant",
+    "stime": 146,
+    "utterance": "Perfect. Can you provide the card number?",
+    "etime": 149
+  },
+  {
+    "role": "User",
+    "stime": 149,
+    "utterance": "Sure, it's five one six seven star star two three four five star star nine eight seven six.",
+    "etime": 161
+  },
+  {
+    "role": "Assistant",
+    "stime": 161,
+    "utterance": "I'm sorry, I need the complete card number without any symbols or asterisks. Can you provide all sixteen digits?",
+    "etime": 170
+  },
+  {
+    "role": "User",
+    "stime": 170,
+    "utterance": "Oh, I thought I shouldn't say the middle numbers. For security reasons, you know?",
+    "etime": 176
+  },
+  {
+    "role": "Assistant",
+    "stime": 176,
+    "utterance": "I appreciate your concern for security. However, I do need the complete number to process the payment. This call is secure and encrypted, and I'm the only one who will hear the full number.",
+    "etime": 189
+  },
+  {
+    "role": "User",
+    "stime": 189,
+    "utterance": "Okay, that makes sense. Let me just read what's on the card. Five one six seven eight nine two three four five six seven nine eight seven six.",
+    "etime": 205
+  },
+  {
+    "role": "Assistant",
+    "stime": 205,
+    "utterance": "Thank you. Let me confirm that's five one six seven eight nine two three four five six seven nine eight seven six?",
+    "etime": 214
+  },
+  {
+    "role": "User",
+    "stime": 214,
+    "utterance": "Yes, that's correct.",
+    "etime": 216
+  },
+  {
+    "role": "Assistant",
+    "stime": 216,
+    "utterance": "Great. And the expiration date?",
+    "etime": 219
+  },
+  {
+    "role": "User",
+    "stime": 219,
+    "utterance": "March twenty twenty nine.",
+    "etime": 223
+  },
+  {
+    "role": "Assistant",
+    "stime": 223,
+    "utterance": "And the three digit CVV?",
+    "etime": 226
+  },
+  {
+    "role": "User",
+    "stime": 226,
+    "utterance": "Three two one.",
+    "etime": 229
+  },
+  {
+    "role": "Assistant",
+    "stime": 229,
+    "utterance": "Is the name on the card Patricia Williams?",
+    "etime": 232
+  },
+  {
+    "role": "User",
+    "stime": 232,
+    "utterance": "Yes it is.",
+    "etime": 234
+  },
+  {
+    "role": "Assistant",
+    "stime": 234,
+    "utterance": "And can you confirm your billing zip code for this card?",
+    "etime": 238
+  },
+  {
+    "role": "User",
+    "stime": 238,
+    "utterance": "Eight nine one zero one.",
+    "etime": 241
+  },
+  {
+    "role": "Assistant",
+    "stime": 241,
+    "utterance": "Thank you. Patricia Williams, you are authorizing a payment of five hundred twelve dollars to your card ending in seven six. Do you authorize this transaction?",
+    "etime": 253
+  },
+  {
+    "role": "User",
+    "stime": 253,
+    "utterance": "Yes, I authorize it.",
+    "etime": 255
+  },
+  {
+    "role": "Assistant",
+    "stime": 255,
+    "utterance": "Perfect. I'm processing this payment now. Please hold for a moment.",
+    "etime": 266
+  },
+  {
+    "role": "Assistant",
+    "stime": 266,
+    "utterance": "Your payment has been processed successfully. Thank you, Patricia. You should receive a confirmation email shortly. What email should we send that to?",
+    "etime": 277
+  },
+  {
+    "role": "User",
+    "stime": 277,
+    "utterance": "patricia underscore williams at email dot com.",
+    "etime": 284
+  },
+  {
+    "role": "Assistant",
+    "stime": 284,
+    "utterance": "Got it. I'm sending the confirmation to patricia underscore williams at email dot com. You should see it within the next five to ten minutes.",
+    "etime": 294
+  },
+  {
+    "role": "User",
+    "stime": 294,
+    "utterance": "Perfect. So my account is completely clear now?",
+    "etime": 298
+  },
+  {
+    "role": "Assistant",
+    "stime": 298,
+    "utterance": "Yes, your balance is now zero. The account will be updated to paid in full, and you won't receive any more collection notices from us.",
+    "etime": 307
+  },
+  {
+    "role": "User",
+    "stime": 307,
+    "utterance": "Great. How long until this shows as paid on my credit report?",
+    "etime": 312
+  },
+  {
+    "role": "Assistant",
+    "stime": 312,
+    "utterance": "We report to the credit bureaus monthly, so it should update within thirty to forty five days. You can check your credit report after that time to verify it's been updated.",
+    "etime": 324
+  },
+  {
+    "role": "User",
+    "stime": 324,
+    "utterance": "Okay, good to know. Is there anything else I need to do?",
+    "etime": 328
+  },
+  {
+    "role": "Assistant",
+    "stime": 328,
+    "utterance": "No, you're all set. Just keep that confirmation email for your records. If you have any questions in the future, you can always call us back.",
+    "etime": 337
+  },
+  {
+    "role": "User",
+    "stime": 337,
+    "utterance": "Will I be able to reach you directly?",
+    "etime": 340
+  },
+  {
+    "role": "Assistant",
+    "stime": 340,
+    "utterance": "You can call the same number, and any agent will be able to access your account. Your file will show that everything has been paid in full.",
+    "etime": 349
+  },
+  {
+    "role": "User",
+    "stime": 349,
+    "utterance": "Perfect. Thank you for your help.",
+    "etime": 352
+  },
+  {
+    "role": "Assistant",
+    "stime": 352,
+    "utterance": "You're very welcome, Patricia. Is there anything else I can assist you with today?",
+    "etime": 357
+  },
+  {
+    "role": "User",
+    "stime": 357,
+    "utterance": "No, that's everything. Thanks again.",
+    "etime": 360
+  },
+  {
+    "role": "Assistant",
+    "stime": 360,
+    "utterance": "Thank you for your payment. Have a wonderful day!",
+    "etime": 365
+  }
+]

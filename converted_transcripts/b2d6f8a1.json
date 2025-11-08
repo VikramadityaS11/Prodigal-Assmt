@@ -1,0 +1,374 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Credit Resolution Group. I'm Michelle, a virtual agent. How may I assist you?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "Hello, I received a notice about an outstanding debt and I'd like to settle it.",
+    "etime": 14
+  },
+  {
+    "role": "Assistant",
+    "stime": 14,
+    "utterance": "I appreciate you calling. I can help you with that. May I have your phone number?",
+    "etime": 20
+  },
+  {
+    "role": "User",
+    "stime": 20,
+    "utterance": "Yes, it's two one two four four four seven seven seven seven.",
+    "etime": 28
+  },
+  {
+    "role": "Assistant",
+    "stime": 28,
+    "utterance": "Thank you. Let me confirm, two one two four four four seven seven seven seven?",
+    "etime": 35
+  },
+  {
+    "role": "User",
+    "stime": 35,
+    "utterance": "Correct.",
+    "etime": 36
+  },
+  {
+    "role": "Assistant",
+    "stime": 36,
+    "utterance": "May I have your full name?",
+    "etime": 39
+  },
+  {
+    "role": "User",
+    "stime": 39,
+    "utterance": "Sarah Mitchell.",
+    "etime": 42
+  },
+  {
+    "role": "Assistant",
+    "stime": 42,
+    "utterance": "And your date of birth?",
+    "etime": 44
+  },
+  {
+    "role": "User",
+    "stime": 44,
+    "utterance": "August nineteenth nineteen ninety four.",
+    "etime": 50
+  },
+  {
+    "role": "Assistant",
+    "stime": 50,
+    "utterance": "Thank you, Sarah. This is an attempt to collect a debt. I see your balance is nine hundred eighty seven dollars and sixty cents. Would you like to take care of this today?",
+    "etime": 63
+  },
+  {
+    "role": "User",
+    "stime": 63,
+    "utterance": "Yes, I want to pay it off completely. What's this debt for?",
+    "etime": 69
+  },
+  {
+    "role": "Assistant",
+    "stime": 69,
+    "utterance": "This is from a retail credit account with Home Essentials Plus that was charged off in May of twenty twenty five. Does that sound familiar?",
+    "etime": 80
+  },
+  {
+    "role": "User",
+    "stime": 80,
+    "utterance": "Oh yes, when they closed all their stores. I thought my balance was cleared when they went out of business.",
+    "etime": 88
+  },
+  {
+    "role": "Assistant",
+    "stime": 88,
+    "utterance": "I understand the confusion. When a retailer goes out of business, the debt doesn't disappear. It's usually sold to collection agencies like ours, and customers are still responsible for paying it.",
+    "etime": 102
+  },
+  {
+    "role": "User",
+    "stime": 102,
+    "utterance": "That doesn't seem fair, but I understand. I want to take care of it.",
+    "etime": 108
+  },
+  {
+    "role": "Assistant",
+    "stime": 108,
+    "utterance": "I appreciate that. That's great. We accept Visa and Mastercard. Which card would you like to use?",
+    "etime": 115
+  },
+  {
+    "role": "User",
+    "stime": 115,
+    "utterance": "Oh, I was planning to do a wire transfer from my bank. Can I do that?",
+    "etime": 121
+  },
+  {
+    "role": "Assistant",
+    "stime": 121,
+    "utterance": "We do accept ACH bank transfers, but for immediate processing, we can only accept credit or debit cards over the phone. Wire transfers would need to be arranged separately and take several business days to process. Would you be able to use a card today?",
+    "etime": 138
+  },
+  {
+    "role": "User",
+    "stime": 138,
+    "utterance": "I have a debit card, but I prefer wire transfers. I feel more secure that way. Is there any way to do that?",
+    "etime": 147
+  },
+  {
+    "role": "Assistant",
+    "stime": 147,
+    "utterance": "I understand your concern about security. Our phone system is completely secure and encrypted. However, if you really prefer a wire transfer, I can give you our banking information and you can initiate it through your bank. The downside is that it typically takes three to five business days to process, and the debt won't be marked as paid until the transfer clears.",
+    "etime": 170
+  },
+  {
+    "role": "User",
+    "stime": 170,
+    "utterance": "Three to five days? Will I still get collection calls during that time?",
+    "etime": 175
+  },
+  {
+    "role": "Assistant",
+    "stime": 175,
+    "utterance": "Potentially, yes. The account would remain active in our system until the payment is received and processed. If you'd like to resolve this today and stop all collection activity immediately, a card payment is the fastest option.",
+    "etime": 190
+  },
+  {
+    "role": "User",
+    "stime": 190,
+    "utterance": "I see. That makes sense. Okay, I guess I'll use my card then. But just to be clear, this is a debit card, not credit. That's okay?",
+    "etime": 201
+  },
+  {
+    "role": "User",
+    "stime": 201,
+    "utterance": "Yes, debit cards work perfectly fine. We accept both Visa and Mastercard debit cards. The payment will be processed just like a regular purchase. What's the card number?",
+    "etime": 214
+  },
+  {
+    "role": "User",
+    "stime": 214,
+    "utterance": "Alright, let me get it. It's four three two one five six seven eight nine zero one.",
+    "etime": 226
+  },
+  {
+    "role": "Assistant",
+    "stime": 226,
+    "utterance": "Let me confirm that - four three two one five six seven eight nine zero one. Is that correct?",
+    "etime": 236
+  },
+  {
+    "role": "User",
+    "stime": 236,
+    "utterance": "Yes, that's right.",
+    "etime": 238
+  },
+  {
+    "role": "Assistant",
+    "stime": 238,
+    "utterance": "Thank you. And the expiration date?",
+    "etime": 241
+  },
+  {
+    "role": "User",
+    "stime": 241,
+    "utterance": "December twenty twenty seven.",
+    "etime": 246
+  },
+  {
+    "role": "Assistant",
+    "stime": 246,
+    "utterance": "And the three digit CVV code?",
+    "etime": 249
+  },
+  {
+    "role": "User",
+    "stime": 249,
+    "utterance": "Eight five two.",
+    "etime": 252
+  },
+  {
+    "role": "Assistant",
+    "stime": 252,
+    "utterance": "Is the card in the name Sarah Mitchell?",
+    "etime": 255
+  },
+  {
+    "role": "User",
+    "stime": 255,
+    "utterance": "Yes, it is.",
+    "etime": 257
+  },
+  {
+    "role": "Assistant",
+    "stime": 257,
+    "utterance": "And can you provide your billing zip code for this card?",
+    "etime": 261
+  },
+  {
+    "role": "User",
+    "stime": 261,
+    "utterance": "One zero zero one six.",
+    "etime": 264
+  },
+  {
+    "role": "Assistant",
+    "stime": 264,
+    "utterance": "Thank you. Sarah Mitchell, you are authorizing a payment of nine hundred eighty seven dollars and sixty cents to your card ending in zero one. Do you authorize this transaction?",
+    "etime": 277
+  },
+  {
+    "role": "User",
+    "stime": 277,
+    "utterance": "Yes, I authorize it.",
+    "etime": 279
+  },
+  {
+    "role": "Assistant",
+    "stime": 279,
+    "utterance": "Perfect. I'm processing your payment now. Please hold.",
+    "etime": 292
+  },
+  {
+    "role": "Assistant",
+    "stime": 292,
+    "utterance": "I'm sorry, Sarah, but there was an issue processing your card. The card number appears to be incomplete - it has only eleven digits, but valid card numbers must be between twelve and sixteen digits. The payment could not be completed at this time.",
+    "etime": 310
+  },
+  {
+    "role": "User",
+    "stime": 310,
+    "utterance": "What? I read you all the numbers on my card.",
+    "etime": 314
+  },
+  {
+    "role": "Assistant",
+    "stime": 314,
+    "utterance": "I understand. Could you please verify the card number again, making sure to read all the digits slowly? There should be at least twelve digits total.",
+    "etime": 325
+  },
+  {
+    "role": "User",
+    "stime": 325,
+    "utterance": "Let me look again... four three two one five six seven eight nine zero one. That's everything that's on here.",
+    "etime": 339
+  },
+  {
+    "role": "Assistant",
+    "stime": 339,
+    "utterance": "I'm showing that as eleven digits. Could you double-check the card to make sure we're not missing any numbers? Sometimes digits can be worn or unclear on the card.",
+    "etime": 351
+  },
+  {
+    "role": "User",
+    "stime": 351,
+    "utterance": "No, I'm looking at it right now. I even counted them. There's only eleven digits. I don't understand why this isn't working.",
+    "etime": 360
+  },
+  {
+    "role": "Assistant",
+    "stime": 360,
+    "utterance": "I understand your frustration. It's possible the card number on your card may be damaged or incomplete. Credit and debit cards typically have between thirteen and sixteen digits, with most common cards having sixteen. Eleven digits is unusual.",
+    "etime": 376
+  },
+  {
+    "role": "User",
+    "stime": 376,
+    "utterance": "This card is only about a year old. It's not damaged. The numbers are all clear.",
+    "etime": 383
+  },
+  {
+    "role": "Assistant",
+    "stime": 383,
+    "utterance": "That is strange. It's possible there was a printing error when the card was made. You could try a different card if you have one available, or contact your bank to verify the complete card number. They can confirm if the number on the card is correct.",
+    "etime": 400
+  },
+  {
+    "role": "User",
+    "stime": 400,
+    "utterance": "I don't have another card. Can you just try to run it anyway? Maybe your system will accept it.",
+    "etime": 408
+  },
+  {
+    "role": "Assistant",
+    "stime": 408,
+    "utterance": "Unfortunately, our payment processing system has security protocols that require valid card numbers within the standard length range. The system won't even attempt to process a number that's outside those parameters. It's a security feature to prevent fraud.",
+    "etime": 424
+  },
+  {
+    "role": "User",
+    "stime": 424,
+    "utterance": "So what am I supposed to do now? I wanted to take care of this today.",
+    "etime": 430
+  },
+  {
+    "role": "Assistant",
+    "stime": 430,
+    "utterance": "I understand, and I apologize for this complication. You have a few options. You could contact your bank right now to verify the card number and see if they can provide the correct one. Alternatively, we could arrange for that wire transfer I mentioned earlier, though it would take a few days. Or, if you have access to another card, we could use that instead.",
+    "etime": 453
+  },
+  {
+    "role": "User",
+    "stime": 453,
+    "utterance": "I really don't want to wait days. Can I call my bank now and then call you back?",
+    "etime": 460
+  },
+  {
+    "role": "Assistant",
+    "stime": 460,
+    "utterance": "Absolutely. Your account will remain open, and you can call us back anytime. When you call back, just provide your phone number and let them know you were working with Michelle on a payment.",
+    "etime": 473
+  },
+  {
+    "role": "User",
+    "stime": 473,
+    "utterance": "Will I still be able to pay the same amount, or will it go up?",
+    "etime": 478
+  },
+  {
+    "role": "Assistant",
+    "stime": 478,
+    "utterance": "The balance will remain nine hundred eighty seven dollars and sixty cents. We don't add interest or fees while you're actively working to resolve the debt.",
+    "etime": 488
+  },
+  {
+    "role": "User",
+    "stime": 488,
+    "utterance": "Okay, that's good to know. I'm going to call my bank right now and figure this out. Then I'll call you back.",
+    "etime": 496
+  },
+  {
+    "role": "Assistant",
+    "stime": 496,
+    "utterance": "That sounds like a good plan. We're available Monday through Saturday, eight AM to nine PM Eastern time. When you call back, we'll be ready to help you complete the payment.",
+    "etime": 509
+  },
+  {
+    "role": "User",
+    "stime": 509,
+    "utterance": "Alright. Thank you for your patience with this.",
+    "etime": 513
+  },
+  {
+    "role": "Assistant",
+    "stime": 513,
+    "utterance": "You're very welcome, Sarah. I appreciate your effort to resolve this. Good luck with your bank, and we'll talk to you soon.",
+    "etime": 521
+  },
+  {
+    "role": "User",
+    "stime": 521,
+    "utterance": "Thanks. Bye.",
+    "etime": 523
+  },
+  {
+    "role": "Assistant",
+    "stime": 523,
+    "utterance": "Goodbye, Sarah.",
+    "etime": 528
+  }
+]

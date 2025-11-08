@@ -1,0 +1,422 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling National Debt Services. I'm Kevin, a virtual agent. How can I help you today?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "Hi, I'm calling about the balance on my account. I'd like to make a payment.",
+    "etime": 14
+  },
+  {
+    "role": "Assistant",
+    "stime": 14,
+    "utterance": "I'd be happy to help you with that. Can you provide your phone number?",
+    "etime": 19
+  },
+  {
+    "role": "User",
+    "stime": 19,
+    "utterance": "Sure, it's five zero three nine nine nine eight eight eight eight.",
+    "etime": 26
+  },
+  {
+    "role": "Assistant",
+    "stime": 26,
+    "utterance": "Thank you. Let me confirm, five zero three nine nine nine eight eight eight eight?",
+    "etime": 33
+  },
+  {
+    "role": "User",
+    "stime": 33,
+    "utterance": "That's correct.",
+    "etime": 34
+  },
+  {
+    "role": "Assistant",
+    "stime": 34,
+    "utterance": "May I have your full name?",
+    "etime": 37
+  },
+  {
+    "role": "User",
+    "stime": 37,
+    "utterance": "Christopher Davis.",
+    "etime": 40
+  },
+  {
+    "role": "Assistant",
+    "stime": 40,
+    "utterance": "And your date of birth?",
+    "etime": 42
+  },
+  {
+    "role": "User",
+    "stime": 42,
+    "utterance": "January seventh nineteen seventy five.",
+    "etime": 47
+  },
+  {
+    "role": "Assistant",
+    "stime": 47,
+    "utterance": "Thank you, Christopher. This is an attempt to collect a debt. I see you have a balance of one thousand two hundred thirty four dollars and fifty cents. Would you like to take care of this today?",
+    "etime": 61
+  },
+  {
+    "role": "User",
+    "stime": 61,
+    "utterance": "That's a lot. What's this from?",
+    "etime": 65
+  },
+  {
+    "role": "Assistant",
+    "stime": 65,
+    "utterance": "This is from a credit card account with Western Financial that was charged off in March of twenty twenty five. The original balance was one thousand dollars, and fees and interest have brought it to the current amount.",
+    "etime": 79
+  },
+  {
+    "role": "User",
+    "stime": 79,
+    "utterance": "I see. Can I do a payment plan?",
+    "etime": 83
+  },
+  {
+    "role": "Assistant",
+    "stime": 83,
+    "utterance": "Yes, we do offer payment plans. But first, may I ask what your current situation is? Are you working?",
+    "etime": 91
+  },
+  {
+    "role": "User",
+    "stime": 91,
+    "utterance": "Yes, I'm working full time. It's just a lot to pay all at once.",
+    "etime": 97
+  },
+  {
+    "role": "Assistant",
+    "stime": 97,
+    "utterance": "I completely understand. We could set up monthly payments. What amount would be comfortable for you each month?",
+    "etime": 105
+  },
+  {
+    "role": "User",
+    "stime": 105,
+    "utterance": "Maybe two hundred a month?",
+    "etime": 108
+  },
+  {
+    "role": "Assistant",
+    "stime": 108,
+    "utterance": "Let me see what I can do. That would be about six payments. I can set up a payment plan of two hundred five dollars and seventy five cents for six months. Would that work?",
+    "etime": 121
+  },
+  {
+    "role": "User",
+    "stime": 121,
+    "utterance": "Yes, that sounds good. And there's no additional fees for the payment plan?",
+    "etime": 127
+  },
+  {
+    "role": "Assistant",
+    "stime": 127,
+    "utterance": "That's correct. There are no additional fees. The total would still be one thousand two hundred thirty four dollars and fifty cents, just broken into six monthly payments.",
+    "etime": 138
+  },
+  {
+    "role": "User",
+    "stime": 138,
+    "utterance": "Okay, that's reasonable. How do we set that up?",
+    "etime": 142
+  },
+  {
+    "role": "Assistant",
+    "stime": 142,
+    "utterance": "Excellent. We accept Visa and Mastercard for automatic payments. Which would you prefer?",
+    "etime": 148
+  },
+  {
+    "role": "User",
+    "stime": 148,
+    "utterance": "Actually, can I do a bank transfer instead?",
+    "etime": 152
+  },
+  {
+    "role": "Assistant",
+    "stime": 152,
+    "utterance": "We do accept ACH bank transfers, but for this payment plan, we need to set up automatic payments via credit or debit card. This ensures the payments are made on time each month. Do you have a card you could use?",
+    "etime": 167
+  },
+  {
+    "role": "User",
+    "stime": 167,
+    "utterance": "Hmm, I'd really prefer bank transfer. Is there absolutely no way to do that?",
+    "etime": 173
+  },
+  {
+    "role": "Assistant",
+    "stime": 173,
+    "utterance": "For a payment plan with automatic withdrawals, we require a card. However, if you wanted to do individual payments each month, you could call in and make bank transfers. But that would require you to call us every month on the due date.",
+    "etime": 189
+  },
+  {
+    "role": "User",
+    "stime": 189,
+    "utterance": "That sounds like a hassle. Let me think about this for a second.",
+    "etime": 194
+  },
+  {
+    "role": "Assistant",
+    "stime": 194,
+    "utterance": "Take your time. The advantage of the automatic card payments is that you don't have to remember to call each month. It's all handled automatically.",
+    "etime": 204
+  },
+  {
+    "role": "User",
+    "stime": 204,
+    "utterance": "Yeah, that makes sense. Oh, I have a debit card. Does that work?",
+    "etime": 210
+  },
+  {
+    "role": "Assistant",
+    "stime": 210,
+    "utterance": "Yes, that works perfectly. We accept both Visa and Mastercard debit cards. What's the card number?",
+    "etime": 217
+  },
+  {
+    "role": "User",
+    "stime": 217,
+    "utterance": "Okay, it's five two three four five six seven eight nine zero one two three four five six.",
+    "etime": 231
+  },
+  {
+    "role": "Assistant",
+    "stime": 231,
+    "utterance": "Thank you. And the expiration date?",
+    "etime": 234
+  },
+  {
+    "role": "User",
+    "stime": 234,
+    "utterance": "September twenty twenty six.",
+    "etime": 239
+  },
+  {
+    "role": "Assistant",
+    "stime": 239,
+    "utterance": "And the CVV code?",
+    "etime": 241
+  },
+  {
+    "role": "User",
+    "stime": 241,
+    "utterance": "Four one two.",
+    "etime": 244
+  },
+  {
+    "role": "Assistant",
+    "stime": 244,
+    "utterance": "Is this card in the name Christopher Davis?",
+    "etime": 247
+  },
+  {
+    "role": "User",
+    "stime": 247,
+    "utterance": "Yes it is.",
+    "etime": 249
+  },
+  {
+    "role": "Assistant",
+    "stime": 249,
+    "utterance": "Perfect. And what's your billing zip code for this card?",
+    "etime": 253
+  },
+  {
+    "role": "User",
+    "stime": 253,
+    "utterance": "Nine seven two zero three.",
+    "etime": 256
+  },
+  {
+    "role": "Assistant",
+    "stime": 256,
+    "utterance": "Thank you. Christopher Davis, you are authorizing six monthly payments of two hundred five dollars and seventy five cents starting today, to be charged automatically to your card ending in five six on the seventh of each month. The first payment will be processed today. Do you authorize this?",
+    "etime": 277
+  },
+  {
+    "role": "User",
+    "stime": 277,
+    "utterance": "Wait, the first payment is today? I thought it would start next month.",
+    "etime": 282
+  },
+  {
+    "role": "Assistant",
+    "stime": 282,
+    "utterance": "The first payment processes immediately when we set up the plan. This counts as your first of six payments. The remaining five payments will be on the seventh of each month for the next five months. Is that okay?",
+    "etime": 297
+  },
+  {
+    "role": "User",
+    "stime": 297,
+    "utterance": "Hmm. Actually, I don't think I can do two hundred today. Can we start with something smaller?",
+    "etime": 305
+  },
+  {
+    "role": "User",
+    "stime": 305,
+    "utterance": "I understand. What amount could you do for the first payment?",
+    "etime": 310
+  },
+  {
+    "role": "User",
+    "stime": 310,
+    "utterance": "Maybe one hundred?",
+    "etime": 312
+  },
+  {
+    "role": "Assistant",
+    "stime": 312,
+    "utterance": "Let me see what I can arrange. I can do an initial payment of one hundred dollars today, and then we'd need to adjust the remaining balance. That would make it about six payments of one hundred eighty nine dollars and eight cents. Would that work?",
+    "etime": 330
+  },
+  {
+    "role": "User",
+    "stime": 330,
+    "utterance": "Wait, so the first payment is one hundred, and then the next six are one eighty nine?",
+    "etime": 336
+  },
+  {
+    "role": "Assistant",
+    "stime": 336,
+    "utterance": "Let me clarify. The first payment today would be one hundred dollars. Then you'd have five remaining payments of one hundred eighty nine dollars and eight cents to pay off the remaining balance. So it's six total payments.",
+    "etime": 351
+  },
+  {
+    "role": "User",
+    "stime": 351,
+    "utterance": "Oh, I see. So it's one hundred now, and then five more payments after that.",
+    "etime": 357
+  },
+  {
+    "role": "Assistant",
+    "stime": 357,
+    "utterance": "Exactly. Does that work for you?",
+    "etime": 360
+  },
+  {
+    "role": "User",
+    "stime": 360,
+    "utterance": "You know what, let me just think about this. This is more complicated than I thought. Can I call back?",
+    "etime": 368
+  },
+  {
+    "role": "Assistant",
+    "stime": 368,
+    "utterance": "Of course. I completely understand. Would you like to call back when you're ready, or would you prefer to proceed with just a one-time payment for now and decide on a payment plan later?",
+    "etime": 380
+  },
+  {
+    "role": "User",
+    "stime": 380,
+    "utterance": "Actually, yeah. Let me just make a one-time payment of one hundred dollars now, and I'll call back about the rest.",
+    "etime": 388
+  },
+  {
+    "role": "Assistant",
+    "stime": 388,
+    "utterance": "That works perfectly. I still have your card information from earlier. The card ending in five six, expiring September twenty twenty six. Is that correct?",
+    "etime": 399
+  },
+  {
+    "role": "User",
+    "stime": 399,
+    "utterance": "Yes, that's right.",
+    "etime": 401
+  },
+  {
+    "role": "Assistant",
+    "stime": 401,
+    "utterance": "Excellent. Christopher Davis, you are authorizing a one-time payment of one hundred dollars to your card ending in five six. Do you authorize this transaction?",
+    "etime": 413
+  },
+  {
+    "role": "User",
+    "stime": 413,
+    "utterance": "Yes, I authorize it.",
+    "etime": 415
+  },
+  {
+    "role": "Assistant",
+    "stime": 415,
+    "utterance": "Perfect. I'm processing this payment now. Please hold.",
+    "etime": 426
+  },
+  {
+    "role": "Assistant",
+    "stime": 426,
+    "utterance": "Your payment of one hundred dollars has been processed successfully. Your new balance is one thousand one hundred thirty four dollars and fifty cents. You can call us anytime to discuss the remaining balance or set up a payment plan.",
+    "etime": 441
+  },
+  {
+    "role": "User",
+    "stime": 441,
+    "utterance": "Okay great. So we're done for now?",
+    "etime": 444
+  },
+  {
+    "role": "Assistant",
+    "stime": 444,
+    "utterance": "Yes, we're all set for today. You'll receive a confirmation email within the next few minutes. What email should I send that to?",
+    "etime": 453
+  },
+  {
+    "role": "User",
+    "stime": 453,
+    "utterance": "chris dot davis at email dot com.",
+    "etime": 459
+  },
+  {
+    "role": "Assistant",
+    "stime": 459,
+    "utterance": "Perfect. I'm sending the confirmation to chris dot davis at email dot com. Thank you for your payment, Christopher.",
+    "etime": 468
+  },
+  {
+    "role": "User",
+    "stime": 468,
+    "utterance": "Thanks. And when I call back, will you have notes about this conversation?",
+    "etime": 473
+  },
+  {
+    "role": "Assistant",
+    "stime": 473,
+    "utterance": "Yes, absolutely. All of our conversations are noted in your account. When you call back, any agent will be able to see that you made a payment today and that you were interested in setting up a payment plan for the remaining balance.",
+    "etime": 486
+  },
+  {
+    "role": "User",
+    "stime": 486,
+    "utterance": "Great. That's helpful. Thank you for your patience with all my questions.",
+    "etime": 491
+  },
+  {
+    "role": "Assistant",
+    "stime": 491,
+    "utterance": "You're very welcome. It's important that you understand your options. Is there anything else I can help you with today?",
+    "etime": 498
+  },
+  {
+    "role": "User",
+    "stime": 498,
+    "utterance": "No, that's everything. Thanks again.",
+    "etime": 501
+  },
+  {
+    "role": "Assistant",
+    "stime": 501,
+    "utterance": "Thank you, Christopher. Have a great day!",
+    "etime": 506
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Debt Recovery Associates. This call is being recorded. I'm Amanda, a virtual agent. How can I help you?",
+    "etime": 9
+  },
+  {
+    "role": "User",
+    "stime": 9,
+    "utterance": "I got a voicemail from this number.",
+    "etime": 12
+  },
+  {
+    "role": "Assistant",
+    "stime": 12,
+    "utterance": "I can help you with that. Can you provide your phone number?",
+    "etime": 16
+  },
+  {
+    "role": "User",
+    "stime": 16,
+    "utterance": "Three zero three seven seven seven four four four four.",
+    "etime": 23
+  },
+  {
+    "role": "Assistant",
+    "stime": 23,
+    "utterance": "Let me confirm, three zero three seven seven seven four four four four?",
+    "etime": 29
+  },
+  {
+    "role": "User",
+    "stime": 29,
+    "utterance": "Correct.",
+    "etime": 30
+  },
+  {
+    "role": "Assistant",
+    "stime": 30,
+    "utterance": "May I have your full name?",
+    "etime": 32
+  },
+  {
+    "role": "User",
+    "stime": 32,
+    "utterance": "David Thompson.",
+    "etime": 35
+  },
+  {
+    "role": "Assistant",
+    "stime": 35,
+    "utterance": "And your date of birth?",
+    "etime": 37
+  },
+  {
+    "role": "User",
+    "stime": 37,
+    "utterance": "June twenty second nineteen seventy nine.",
+    "etime": 42
+  },
+  {
+    "role": "Assistant",
+    "stime": 42,
+    "utterance": "Thank you, David. This is an attempt to collect a debt. I see there's a balance of two hundred ninety five dollars and forty cents on your account. Would you be able to resolve this today?",
+    "etime": 54
+  },
+  {
+    "role": "User",
+    "stime": 54,
+    "utterance": "What is this debt for?",
+    "etime": 57
+  },
+  {
+    "role": "Assistant",
+    "stime": 57,
+    "utterance": "This is from a utility account with Mountain View Electric that was sent to collections in August of this year. Does that sound familiar?",
+    "etime": 66
+  },
+  {
+    "role": "User",
+    "stime": 66,
+    "utterance": "Oh yeah, from my old apartment. I thought I paid that when I moved out.",
+    "etime": 72
+  },
+  {
+    "role": "Assistant",
+    "stime": 72,
+    "utterance": "It's possible there was a final bill that came after you moved. The balance shows as unpaid from your final billing cycle.",
+    "etime": 81
+  },
+  {
+    "role": "User",
+    "stime": 81,
+    "utterance": "I see. So it's two hundred ninety five dollars?",
+    "etime": 85
+  },
+  {
+    "role": "Assistant",
+    "stime": 85,
+    "utterance": "Yes, two hundred ninety five dollars and forty cents.",
+    "etime": 89
+  },
+  {
+    "role": "User",
+    "stime": 89,
+    "utterance": "Not today. I just wanted to know what this was about. I don't have money right now.",
+    "etime": 96
+  },
+  {
+    "role": "Assistant",
+    "stime": 96,
+    "utterance": "I understand. Can I ask, are you currently employed?",
+    "etime": 100
+  },
+  {
+    "role": "User",
+    "stime": 100,
+    "utterance": "I'm between jobs right now. That's why money is tight.",
+    "etime": 105
+  },
+  {
+    "role": "Assistant",
+    "stime": 105,
+    "utterance": "I completely understand. A lot of people go through that. When do you expect to be back to work?",
+    "etime": 112
+  },
+  {
+    "role": "User",
+    "stime": 112,
+    "utterance": "I'm not sure. I've been applying to places but haven't heard back yet.",
+    "etime": 117
+  },
+  {
+    "role": "Assistant",
+    "stime": 117,
+    "utterance": "That can be stressful. Are you receiving any unemployment benefits during this time?",
+    "etime": 123
+  },
+  {
+    "role": "User",
+    "stime": 123,
+    "utterance": "No, I didn't qualify for that.",
+    "etime": 126
+  },
+  {
+    "role": "Assistant",
+    "stime": 126,
+    "utterance": "I see. Well, we do want to work with you. Even though you can't pay today, is there any amount you might be able to put toward this in the near future? Even a small payment can help.",
+    "etime": 139
+  },
+  {
+    "role": "User",
+    "stime": 139,
+    "utterance": "I really don't have anything right now. I'm barely covering rent and food.",
+    "etime": 145
+  },
+  {
+    "role": "Assistant",
+    "stime": 145,
+    "utterance": "I understand your situation. Is there a better time we could call you back to discuss payment options, maybe in a few weeks when things might be more stable?",
+    "etime": 155
+  },
+  {
+    "role": "User",
+    "stime": 155,
+    "utterance": "Maybe in a couple weeks. I'm hoping to have something lined up by then.",
+    "etime": 161
+  },
+  {
+    "role": "Assistant",
+    "stime": 161,
+    "utterance": "That sounds reasonable. We also have payment plan options that could make this easier when you are ready. We could break this into smaller monthly payments if that would help.",
+    "etime": 172
+  },
+  {
+    "role": "User",
+    "stime": 172,
+    "utterance": "How small are we talking?",
+    "etime": 175
+  },
+  {
+    "role": "Assistant",
+    "stime": 175,
+    "utterance": "For a balance of two hundred ninety five dollars, we could do payments as low as fifty dollars a month over six months. Would something like that be manageable when you're working again?",
+    "etime": 187
+  },
+  {
+    "role": "User",
+    "stime": 187,
+    "utterance": "Yeah, fifty a month would be doable once I'm employed.",
+    "etime": 192
+  },
+  {
+    "role": "Assistant",
+    "stime": 192,
+    "utterance": "Perfect. So when we talk in a couple of weeks, we can set that up if you're ready at that point. Should I have someone call you back in two weeks?",
+    "etime": 202
+  },
+  {
+    "role": "User",
+    "stime": 202,
+    "utterance": "Yeah, that works.",
+    "etime": 204
+  },
+  {
+    "role": "Assistant",
+    "stime": 204,
+    "utterance": "Okay, I'll schedule a callback for two weeks from today. And David, just so you know, we'll probably be sending you written notices as well. Those are standard procedure.",
+    "etime": 215
+  },
+  {
+    "role": "User",
+    "stime": 215,
+    "utterance": "That's fine. What address do you have on file?",
+    "etime": 219
+  },
+  {
+    "role": "Assistant",
+    "stime": 219,
+    "utterance": "Let me check. I show an address on Mountain Ridge Drive in Boulder. Is that still current?",
+    "etime": 226
+  },
+  {
+    "role": "User",
+    "stime": 226,
+    "utterance": "No, I moved. My new address is twelve thirty four Maple Street, Apartment B, Denver, Colorado, eight zero two zero two.",
+    "etime": 239
+  },
+  {
+    "role": "Assistant",
+    "stime": 239,
+    "utterance": "Thank you. Let me update that. Twelve thirty four Maple Street, Apartment B, Denver, Colorado, eight zero two zero two. Is that correct?",
+    "etime": 249
+  },
+  {
+    "role": "User",
+    "stime": 249,
+    "utterance": "Yes, that's right.",
+    "etime": 251
+  },
+  {
+    "role": "Assistant",
+    "stime": 251,
+    "utterance": "Perfect. I've updated your address in our system. You should receive correspondence at that address now.",
+    "etime": 258
+  },
+  {
+    "role": "User",
+    "stime": 258,
+    "utterance": "Okay, good.",
+    "etime": 260
+  },
+  {
+    "role": "Assistant",
+    "stime": 260,
+    "utterance": "Is there a best time of day to reach you when we call back in two weeks?",
+    "etime": 265
+  },
+  {
+    "role": "User",
+    "stime": 265,
+    "utterance": "Probably afternoons are better, after one PM.",
+    "etime": 269
+  },
+  {
+    "role": "Assistant",
+    "stime": 269,
+    "utterance": "Got it. I'll make a note that afternoons after one PM are preferable. And is this phone number the best one to reach you?",
+    "etime": 277
+  },
+  {
+    "role": "User",
+    "stime": 277,
+    "utterance": "Yes, this is my cell.",
+    "etime": 279
+  },
+  {
+    "role": "Assistant",
+    "stime": 279,
+    "utterance": "Perfect. David, I want you to know that we're here to help. When you're ready, we'll work with you to set up something manageable. Is there anything else I can help you with today?",
+    "etime": 291
+  },
+  {
+    "role": "User",
+    "stime": 291,
+    "utterance": "No, that's all.",
+    "etime": 293
+  },
+  {
+    "role": "Assistant",
+    "stime": 293,
+    "utterance": "Alright. I hope your job search goes well, and we'll reach out in two weeks. Take care, David.",
+    "etime": 300
+  },
+  {
+    "role": "User",
+    "stime": 300,
+    "utterance": "Thanks. Bye.",
+    "etime": 302
+  },
+  {
+    "role": "Assistant",
+    "stime": 302,
+    "utterance": "Thank you for calling. Goodbye.",
+    "etime": 307
+  }
+]

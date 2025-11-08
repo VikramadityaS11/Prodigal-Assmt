@@ -1,0 +1,362 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Debt Solutions Group. I'm Brandon, a virtual agent. How can I help you today?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "Hi, I'm calling to pay off my balance.",
+    "etime": 12
+  },
+  {
+    "role": "Assistant",
+    "stime": 12,
+    "utterance": "I'd be happy to help you with that. Can you provide your phone number?",
+    "etime": 17
+  },
+  {
+    "role": "User",
+    "stime": 17,
+    "utterance": "Six one nine eight eight eight three three three three.",
+    "etime": 24
+  },
+  {
+    "role": "Assistant",
+    "stime": 24,
+    "utterance": "Thank you. Let me confirm, six one nine eight eight eight three three three three?",
+    "etime": 31
+  },
+  {
+    "role": "User",
+    "stime": 31,
+    "utterance": "Yes.",
+    "etime": 32
+  },
+  {
+    "role": "Assistant",
+    "stime": 32,
+    "utterance": "May I have your full name?",
+    "etime": 35
+  },
+  {
+    "role": "User",
+    "stime": 35,
+    "utterance": "Michael Johnson.",
+    "etime": 38
+  },
+  {
+    "role": "Assistant",
+    "stime": 38,
+    "utterance": "And your date of birth?",
+    "etime": 40
+  },
+  {
+    "role": "User",
+    "stime": 40,
+    "utterance": "October twenty third nineteen eighty two.",
+    "etime": 46
+  },
+  {
+    "role": "Assistant",
+    "stime": 46,
+    "utterance": "Thank you, Michael. This is an attempt to collect a debt. I see your current balance is seven hundred sixty five dollars and thirty cents. Would you like to pay this in full today?",
+    "etime": 59
+  },
+  {
+    "role": "User",
+    "stime": 59,
+    "utterance": "Yes, let's get this done. What's this from?",
+    "etime": 64
+  },
+  {
+    "role": "Assistant",
+    "stime": 64,
+    "utterance": "This is from a personal loan with Quick Advance Loans that defaulted in April of twenty twenty five. The original loan amount was five hundred dollars.",
+    "etime": 75
+  },
+  {
+    "role": "User",
+    "stime": 75,
+    "utterance": "Wait, it was five hundred and now it's seven hundred sixty five? How did it go up so much?",
+    "etime": 83
+  },
+  {
+    "role": "Assistant",
+    "stime": 83,
+    "utterance": "The additional amount is from interest and late fees that accrued when the loan went into default. These fees were outlined in your original loan agreement.",
+    "etime": 94
+  },
+  {
+    "role": "User",
+    "stime": 94,
+    "utterance": "That's a huge increase. Can you waive any of those fees?",
+    "etime": 99
+  },
+  {
+    "role": "Assistant",
+    "stime": 99,
+    "utterance": "Let me check what options are available. I can reduce the balance to seven hundred dollars even if you pay in full today. That would save you sixty five dollars. Would that work for you?",
+    "etime": 113
+  },
+  {
+    "role": "User",
+    "stime": 113,
+    "utterance": "I guess that's better than nothing.",
+    "etime": 116
+  },
+  {
+    "role": "Assistant",
+    "stime": 116,
+    "utterance": "Great. So we'll proceed with a payment of seven hundred dollars to settle the account in full. Is that correct?",
+    "etime": 124
+  },
+  {
+    "role": "User",
+    "stime": 124,
+    "utterance": "Yes.",
+    "etime": 125
+  },
+  {
+    "role": "Assistant",
+    "stime": 125,
+    "utterance": "Perfect. We accept Visa and Mastercard. Which would you prefer?",
+    "etime": 130
+  },
+  {
+    "role": "User",
+    "stime": 130,
+    "utterance": "I'll use my Visa.",
+    "etime": 132
+  },
+  {
+    "role": "Assistant",
+    "stime": 132,
+    "utterance": "Excellent. Can you provide the card number?",
+    "etime": 135
+  },
+  {
+    "role": "User",
+    "stime": 135,
+    "utterance": "Four nine one seven six five four three two one zero nine eight seven six five.",
+    "etime": 148
+  },
+  {
+    "role": "Assistant",
+    "stime": 148,
+    "utterance": "Thank you. And the expiration date?",
+    "etime": 151
+  },
+  {
+    "role": "User",
+    "stime": 151,
+    "utterance": "February twenty twenty eight.",
+    "etime": 156
+  },
+  {
+    "role": "Assistant",
+    "stime": 156,
+    "utterance": "And the CVV code?",
+    "etime": 158
+  },
+  {
+    "role": "User",
+    "stime": 158,
+    "utterance": "Five five five.",
+    "etime": 161
+  },
+  {
+    "role": "Assistant",
+    "stime": 161,
+    "utterance": "Is the card in the name Michael Johnson?",
+    "etime": 164
+  },
+  {
+    "role": "User",
+    "stime": 164,
+    "utterance": "Yes.",
+    "etime": 165
+  },
+  {
+    "role": "Assistant",
+    "stime": 165,
+    "utterance": "Perfect. And your billing zip code?",
+    "etime": 168
+  },
+  {
+    "role": "User",
+    "stime": 168,
+    "utterance": "Nine two one two five.",
+    "etime": 171
+  },
+  {
+    "role": "Assistant",
+    "stime": 171,
+    "utterance": "Thank you. Michael Johnson, you are authorizing a payment of seven hundred dollars to your card ending in six five. Do you authorize this transaction?",
+    "etime": 183
+  },
+  {
+    "role": "User",
+    "stime": 183,
+    "utterance": "Yes, I do.",
+    "etime": 185
+  },
+  {
+    "role": "Assistant",
+    "stime": 185,
+    "utterance": "Thank you. I'm processing your payment now. Please hold.",
+    "etime": 198
+  },
+  {
+    "role": "Assistant",
+    "stime": 198,
+    "utterance": "Your payment has been processed successfully, Michael. You should receive a confirmation email within the next few minutes. What email should I send that to?",
+    "etime": 210
+  },
+  {
+    "role": "User",
+    "stime": 210,
+    "utterance": "mike dot johnson at email dot com.",
+    "etime": 217
+  },
+  {
+    "role": "Assistant",
+    "stime": 217,
+    "utterance": "Perfect. I'm sending the confirmation to mike dot johnson at email dot com. Your account balance is now zero.",
+    "etime": 226
+  },
+  {
+    "role": "User",
+    "stime": 226,
+    "utterance": "Okay, so that's it? The account is closed now?",
+    "etime": 230
+  },
+  {
+    "role": "Assistant",
+    "stime": 230,
+    "utterance": "Yes, your balance has been paid in full. Your account will be updated to reflect a zero balance.",
+    "etime": 237
+  },
+  {
+    "role": "User",
+    "stime": 237,
+    "utterance": "And I won't get any more calls about this?",
+    "etime": 240
+  },
+  {
+    "role": "Assistant",
+    "stime": 240,
+    "utterance": "That's correct. Once the payment is fully processed, which should be within twenty four hours, you won't receive any further collection calls regarding this debt.",
+    "etime": 250
+  },
+  {
+    "role": "User",
+    "stime": 250,
+    "utterance": "Twenty four hours? I thought you said it was processed.",
+    "etime": 254
+  },
+  {
+    "role": "Assistant",
+    "stime": 254,
+    "utterance": "The payment has been processed and authorized on our end. The twenty four hour timeframe is just for the final settlement to reflect in all systems. It's a standard processing period.",
+    "etime": 267
+  },
+  {
+    "role": "User",
+    "stime": 267,
+    "utterance": "So I might still get calls in the next twenty four hours?",
+    "etime": 271
+  },
+  {
+    "role": "Assistant",
+    "stime": 271,
+    "utterance": "It's unlikely, but any scheduled automated calls might still occur until the system fully updates. However, if you do receive a call, you can let them know you just made a payment today with reference number... let me get that for you... reference number JM seven four two nine eight five.",
+    "etime": 291
+  },
+  {
+    "role": "User",
+    "stime": 291,
+    "utterance": "This is ridiculous. I just paid and you're saying I might still get harassed?",
+    "etime": 297
+  },
+  {
+    "role": "Assistant",
+    "stime": 297,
+    "utterance": "I apologize for any confusion, Michael. Your payment is complete and your debt is settled. Any further calls would just be due to system timing, nothing more. Your account is resolved.",
+    "etime": 309
+  },
+  {
+    "role": "User",
+    "stime": 309,
+    "utterance": "But you said twenty four hours. That means the account isn't really closed yet.",
+    "etime": 315
+  },
+  {
+    "role": "Assistant",
+    "stime": 315,
+    "utterance": "The account is closed in terms of your debt being paid. The twenty four hour period is just how long it takes for all of our systems, including the automated calling system, to sync up and reflect that closure. Your obligation is fulfilled.",
+    "etime": 331
+  },
+  {
+    "role": "User",
+    "stime": 331,
+    "utterance": "So if I get a call tomorrow, what do I tell them?",
+    "etime": 335
+  },
+  {
+    "role": "Assistant",
+    "stime": 335,
+    "utterance": "You can tell them you made a full payment on November seventh twenty twenty five, with confirmation number JM seven four two nine eight five, and the account is paid in full. They'll be able to verify that in the system.",
+    "etime": 350
+  },
+  {
+    "role": "User",
+    "stime": 350,
+    "utterance": "I shouldn't have to do that. You should be able to stop the calls immediately.",
+    "etime": 356
+  },
+  {
+    "role": "Assistant",
+    "stime": 356,
+    "utterance": "I understand your frustration, and you're right that ideally everything would update instantly. Unfortunately, our calling system operates on a twenty four hour update cycle for technical reasons. But I can assure you that your payment is complete and your account is settled.",
+    "etime": 373
+  },
+  {
+    "role": "User",
+    "stime": 373,
+    "utterance": "Whatever. This whole process has been exhausting. Are we done here?",
+    "etime": 379
+  },
+  {
+    "role": "Assistant",
+    "stime": 379,
+    "utterance": "Yes, we're all set. Your payment is complete, and you'll receive that confirmation email shortly. Is there anything else I can help you with?",
+    "etime": 389
+  },
+  {
+    "role": "User",
+    "stime": 389,
+    "utterance": "No, I just want to be done with this.",
+    "etime": 392
+  },
+  {
+    "role": "Assistant",
+    "stime": 392,
+    "utterance": "I completely understand. Thank you for your payment, Michael. Have a good day.",
+    "etime": 398
+  },
+  {
+    "role": "User",
+    "stime": 398,
+    "utterance": "Fine. Goodbye.",
+    "etime": 400
+  },
+  {
+    "role": "Assistant",
+    "stime": 400,
+    "utterance": "Goodbye, Michael.",
+    "etime": 405
+  }
+]

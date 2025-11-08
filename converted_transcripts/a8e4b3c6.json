@@ -1,0 +1,308 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Financial Recovery Services. I'm Alex, a virtual agent. How may I assist you?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "Hi, I'd like to make a payment on my account.",
+    "etime": 12
+  },
+  {
+    "role": "Assistant",
+    "stime": 12,
+    "utterance": "I'd be happy to help you with that. Can you provide your phone number?",
+    "etime": 17
+  },
+  {
+    "role": "User",
+    "stime": 17,
+    "utterance": "Sure, it's three one zero seven seven seven two two two two.",
+    "etime": 25
+  },
+  {
+    "role": "Assistant",
+    "stime": 25,
+    "utterance": "Thank you. Let me confirm, three one zero seven seven seven two two two two?",
+    "etime": 32
+  },
+  {
+    "role": "User",
+    "stime": 32,
+    "utterance": "Yes, that's right.",
+    "etime": 34
+  },
+  {
+    "role": "Assistant",
+    "stime": 34,
+    "utterance": "May I have your full name?",
+    "etime": 36
+  },
+  {
+    "role": "User",
+    "stime": 36,
+    "utterance": "Angela Martinez.",
+    "etime": 39
+  },
+  {
+    "role": "Assistant",
+    "stime": 39,
+    "utterance": "And your date of birth?",
+    "etime": 41
+  },
+  {
+    "role": "User",
+    "stime": 41,
+    "utterance": "May fifth nineteen seventy six.",
+    "etime": 46
+  },
+  {
+    "role": "Assistant",
+    "stime": 46,
+    "utterance": "Thank you, Angela. This is an attempt to collect a debt. I see you have a balance of one thousand fifty three dollars and twenty five cents. Would you like to pay this today?",
+    "etime": 59
+  },
+  {
+    "role": "User",
+    "stime": 59,
+    "utterance": "Yes, I want to pay it all off today. What is this for?",
+    "etime": 65
+  },
+  {
+    "role": "Assistant",
+    "stime": 65,
+    "utterance": "This is from a furniture financing account with Home Comfort Furnishings that was charged off in February of twenty twenty five. Does that sound familiar?",
+    "etime": 77
+  },
+  {
+    "role": "User",
+    "stime": 77,
+    "utterance": "Oh yes, the couch I bought. I thought I was making payments on that.",
+    "etime": 83
+  },
+  {
+    "role": "Assistant",
+    "stime": 83,
+    "utterance": "According to our records, payments stopped in November of twenty twenty four, and the account went into default after several months of non-payment. That's when it was sent to us for collection.",
+    "etime": 97
+  },
+  {
+    "role": "User",
+    "stime": 97,
+    "utterance": "I must have missed some payments. Things were really tight financially last year.",
+    "etime": 104
+  },
+  {
+    "role": "Assistant",
+    "stime": 104,
+    "utterance": "I understand. Financial difficulties can happen to anyone. The good news is that you can resolve this today. Would you like to proceed with paying the full balance?",
+    "etime": 116
+  },
+  {
+    "role": "User",
+    "stime": 116,
+    "utterance": "Yes, let's do it. I don't want this hanging over me anymore.",
+    "etime": 121
+  },
+  {
+    "role": "Assistant",
+    "stime": 121,
+    "utterance": "I appreciate that. That's a great decision. We accept Visa and Mastercard. Which would you prefer?",
+    "etime": 128
+  },
+  {
+    "role": "User",
+    "stime": 128,
+    "utterance": "I have a Visa.",
+    "etime": 130
+  },
+  {
+    "role": "Assistant",
+    "stime": 130,
+    "utterance": "Perfect. Can you provide the card number?",
+    "etime": 133
+  },
+  {
+    "role": "User",
+    "stime": 133,
+    "utterance": "Yes, it's four one one one two two two two three three three three four four four four five.",
+    "etime": 147
+  },
+  {
+    "role": "Assistant",
+    "stime": 147,
+    "utterance": "Thank you. Let me verify that. I'm showing seventeen digits. Standard credit card numbers are between twelve and sixteen digits. Can you please recount the digits on your card?",
+    "etime": 160
+  },
+  {
+    "role": "User",
+    "stime": 160,
+    "utterance": "Let me look again. Four one one one two two two two three three three three four four four four five. I count seventeen numbers. Is that wrong?",
+    "etime": 174
+  },
+  {
+    "role": "Assistant",
+    "stime": 174,
+    "utterance": "Yes, unfortunately credit cards don't have seventeen digits. The maximum is sixteen digits for standard Visa and Mastercard cards. This could be a misprint on your card, or there might be an extra digit being read. Can you look at the card very carefully and tell me exactly what you see?",
+    "etime": 194
+  },
+  {
+    "role": "User",
+    "stime": 194,
+    "utterance": "I see four groups of numbers. Let me read each group. First group is four one one one. Second group is two two two two. Third group is three three three three. Fourth group is four four four four five.",
+    "etime": 212
+  },
+  {
+    "role": "Assistant",
+    "stime": 212,
+    "utterance": "Okay, so you're seeing four groups. The last group has five digits instead of four. That's definitely unusual. Standard Visa cards have four groups of four digits each, for a total of sixteen digits.",
+    "etime": 228
+  },
+  {
+    "role": "User",
+    "stime": 228,
+    "utterance": "Well, this is what's embossed on my card. There are definitely five numbers in the last group.",
+    "etime": 235
+  },
+  {
+    "role": "Assistant",
+    "stime": 235,
+    "utterance": "That is very unusual. This could be a manufacturing error on your card. Do you have another card you could use instead?",
+    "etime": 243
+  },
+  {
+    "role": "User",
+    "stime": 243,
+    "utterance": "No, this is my only credit card. Are you sure you can't process it?",
+    "etime": 249
+  },
+  {
+    "role": "Assistant",
+    "stime": 249,
+    "utterance": "Unfortunately, our payment system requires a valid card number between twelve and sixteen digits. A seventeen digit number cannot be processed. The system will reject it as invalid. I recommend contacting your card issuer to verify the correct number.",
+    "etime": 266
+  },
+  {
+    "role": "User",
+    "stime": 266,
+    "utterance": "This is frustrating. I'm trying to pay and the system won't let me.",
+    "etime": 272
+  },
+  {
+    "role": "Assistant",
+    "stime": 272,
+    "utterance": "I completely understand your frustration, Angela. This is unusual situation. Would you like to verify your card number one more time by counting each digit carefully? Sometimes there's a space or formatting that makes it appear longer.",
+    "etime": 289
+  },
+  {
+    "role": "User",
+    "stime": 289,
+    "utterance": "I've counted three times. It's definitely seventeen digits. There's even an extra number embossed on the card. One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen.",
+    "etime": 311
+  },
+  {
+    "role": "Assistant",
+    "stime": 311,
+    "utterance": "That is definitely unusual. I've never encountered a card with seventeen digits before. This seems like it could be a manufacturing defect or error with your card. I strongly recommend calling your bank to verify if this is a legitimate card number.",
+    "etime": 328
+  },
+  {
+    "role": "User",
+    "stime": 328,
+    "utterance": "Could it be because it's an older card? I've had this card for about five years.",
+    "etime": 335
+  },
+  {
+    "role": "Assistant",
+    "stime": 335,
+    "utterance": "Credit card numbers have been standardized for decades, so age wouldn't be a factor. Even older cards follow the same format. This really does seem like a printing error.",
+    "etime": 347
+  },
+  {
+    "role": "User",
+    "stime": 347,
+    "utterance": "So what are my options? I want to pay this today.",
+    "etime": 352
+  },
+  {
+    "role": "Assistant",
+    "stime": 352,
+    "utterance": "You could call your bank right now to verify the card number and see if they can provide the correct one. They might be able to read you the actual account number from their system. Alternatively, if you have a debit card or another form of payment, we could use that. Or you could visit your bank to get a replacement card.",
+    "etime": 373
+  },
+  {
+    "role": "User",
+    "stime": 373,
+    "utterance": "I don't have time for all this. I work long hours and it's hard enough finding time to call you. Now I have to call my bank too?",
+    "etime": 383
+  },
+  {
+    "role": "Assistant",
+    "stime": 383,
+    "utterance": "I understand this is inconvenient, and I apologize. Unfortunately, without a valid card number, I can't process the payment. The system simply won't accept a seventeen digit number. However, if you'd like, I can send you our payment portal information via email, and you could try entering the card there yourself. Sometimes online systems give more specific error messages that might help.",
+    "etime": 408
+  },
+  {
+    "role": "User",
+    "stime": 408,
+    "utterance": "Would that actually work though if you're saying the number is invalid?",
+    "etime": 413
+  },
+  {
+    "role": "Assistant",
+    "stime": 413,
+    "utterance": "You're right, it likely wouldn't work. The portal uses the same validation system. The fundamental issue is that the card number exceeds the maximum allowed length. I really do think contacting your bank is the best option.",
+    "etime": 428
+  },
+  {
+    "role": "User",
+    "stime": 428,
+    "utterance": "This is ridiculous. I'll call my bank and figure it out. This is a waste of my time.",
+    "etime": 435
+  },
+  {
+    "role": "Assistant",
+    "stime": 435,
+    "utterance": "I sincerely apologize for the inconvenience, Angela. I wish I could process this payment for you, but the system limitations prevent it. When you get the correct card information from your bank, please feel free to call us back anytime. We're here Monday through Friday, seven AM to ten PM, and weekends nine AM to six PM.",
+    "etime": 457
+  },
+  {
+    "role": "User",
+    "stime": 457,
+    "utterance": "Whatever. I'll deal with it later.",
+    "etime": 460
+  },
+  {
+    "role": "Assistant",
+    "stime": 460,
+    "utterance": "I understand your frustration. Would you like me to send you an email with your account information and our contact details so you have everything when you're ready to call back?",
+    "etime": 471
+  },
+  {
+    "role": "User",
+    "stime": 471,
+    "utterance": "Sure, fine. My email is angela dot m seventy six at email dot com.",
+    "etime": 480
+  },
+  {
+    "role": "Assistant",
+    "stime": 480,
+    "utterance": "Perfect. I'm sending that to angela dot m seventy six at email dot com right now. You should receive it within a few minutes. Again, I apologize for this complication, and we'll be ready to help you as soon as you have valid payment information.",
+    "etime": 497
+  },
+  {
+    "role": "User",
+    "stime": 497,
+    "utterance": "Yeah, okay. Bye.",
+    "etime": 499
+  },
+  {
+    "role": "Assistant",
+    "stime": 499,
+    "utterance": "Thank you for your patience, Angela. Goodbye.",
+    "etime": 504
+  }
+]

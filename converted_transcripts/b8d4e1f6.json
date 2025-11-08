@@ -1,0 +1,350 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Collection Services LLC. I'm Michael, a virtual agent. How may I assist you?",
+    "etime": 7
+  },
+  {
+    "role": "User",
+    "stime": 7,
+    "utterance": "Yeah, I got a letter about a debt.",
+    "etime": 10
+  },
+  {
+    "role": "Assistant",
+    "stime": 10,
+    "utterance": "I can help with that. May I have your phone number?",
+    "etime": 13
+  },
+  {
+    "role": "User",
+    "stime": 13,
+    "utterance": "Six five zero two two two eight eight eight eight.",
+    "etime": 19
+  },
+  {
+    "role": "Assistant",
+    "stime": 19,
+    "utterance": "Thank you. Let me verify that's six five zero two two two eight eight eight eight. Correct?",
+    "etime": 26
+  },
+  {
+    "role": "User",
+    "stime": 26,
+    "utterance": "Yes.",
+    "etime": 27
+  },
+  {
+    "role": "Assistant",
+    "stime": 27,
+    "utterance": "Can I have your full name please?",
+    "etime": 29
+  },
+  {
+    "role": "User",
+    "stime": 29,
+    "utterance": "Robert Chen.",
+    "etime": 31
+  },
+  {
+    "role": "Assistant",
+    "stime": 31,
+    "utterance": "And your date of birth?",
+    "etime": 33
+  },
+  {
+    "role": "User",
+    "stime": 33,
+    "utterance": "September ninth nineteen eighty eight.",
+    "etime": 38
+  },
+  {
+    "role": "Assistant",
+    "stime": 38,
+    "utterance": "Thank you, Robert. This is an attempt to collect a debt. I see you have a balance of six hundred seventy eight dollars and ninety cents. Can you take care of this today?",
+    "etime": 49
+  },
+  {
+    "role": "User",
+    "stime": 49,
+    "utterance": "What is this for exactly?",
+    "etime": 52
+  },
+  {
+    "role": "Assistant",
+    "stime": 52,
+    "utterance": "This is for an account with Valley Credit Union that was charged off in March of twenty twenty four. The original balance was six hundred fifty dollars, and with fees, it's now six hundred seventy eight dollars and ninety cents.",
+    "etime": 65
+  },
+  {
+    "role": "User",
+    "stime": 65,
+    "utterance": "I closed that credit card a long time ago.",
+    "etime": 69
+  },
+  {
+    "role": "Assistant",
+    "stime": 69,
+    "utterance": "I understand. However, there was a remaining balance when the account was closed, and that's what we're collecting on now.",
+    "etime": 77
+  },
+  {
+    "role": "User",
+    "stime": 77,
+    "utterance": "Why am I just hearing about this now?",
+    "etime": 80
+  },
+  {
+    "role": "Assistant",
+    "stime": 80,
+    "utterance": "According to our records, Valley Credit Union sent several notices to your address on file before transferring the account to us. Did you move recently?",
+    "etime": 90
+  },
+  {
+    "role": "User",
+    "stime": 90,
+    "utterance": "Yeah, I moved about a year ago. Maybe that's why I didn't get them.",
+    "etime": 95
+  },
+  {
+    "role": "Assistant",
+    "stime": 95,
+    "utterance": "That would explain it. It's important to update your address with all your creditors when you move. Now, would you like to resolve this balance today?",
+    "etime": 104
+  },
+  {
+    "role": "User",
+    "stime": 104,
+    "utterance": "How much did you say it was again?",
+    "etime": 107
+  },
+  {
+    "role": "Assistant",
+    "stime": 107,
+    "utterance": "Six hundred seventy eight dollars and ninety cents.",
+    "etime": 111
+  },
+  {
+    "role": "User",
+    "stime": 111,
+    "utterance": "That's a lot. Can you take less?",
+    "etime": 114
+  },
+  {
+    "role": "Assistant",
+    "stime": 114,
+    "utterance": "Let me check what options we have available. For this account, I can offer you a settlement of eighty percent, which would be five hundred forty three dollars and twelve cents, if you can pay that in full today. Would that work for you?",
+    "etime": 130
+  },
+  {
+    "role": "User",
+    "stime": 130,
+    "utterance": "I guess that's better than the full amount.",
+    "etime": 134
+  },
+  {
+    "role": "Assistant",
+    "stime": 134,
+    "utterance": "Yes, it would save you over a hundred thirty dollars. Would you like to take advantage of this settlement offer?",
+    "etime": 141
+  },
+  {
+    "role": "User",
+    "stime": 141,
+    "utterance": "Yeah, okay. I can try. Let me use my card.",
+    "etime": 146
+  },
+  {
+    "role": "Assistant",
+    "stime": 146,
+    "utterance": "Great. We accept Visa and Mastercard. What's the card number?",
+    "etime": 150
+  },
+  {
+    "role": "User",
+    "stime": 150,
+    "utterance": "It's five two one two three four five six seven eight nine zero one two three four.",
+    "etime": 162
+  },
+  {
+    "role": "Assistant",
+    "stime": 162,
+    "utterance": "Thank you. And the expiration date?",
+    "etime": 165
+  },
+  {
+    "role": "User",
+    "stime": 165,
+    "utterance": "January twenty twenty four.",
+    "etime": 169
+  },
+  {
+    "role": "Assistant",
+    "stime": 169,
+    "utterance": "I see. And the CVV code?",
+    "etime": 172
+  },
+  {
+    "role": "User",
+    "stime": 172,
+    "utterance": "Four five six.",
+    "etime": 175
+  },
+  {
+    "role": "Assistant",
+    "stime": 175,
+    "utterance": "Is the card in the name Robert Chen?",
+    "etime": 178
+  },
+  {
+    "role": "User",
+    "stime": 178,
+    "utterance": "Yes.",
+    "etime": 180
+  },
+  {
+    "role": "Assistant",
+    "stime": 180,
+    "utterance": "Let me just verify this information. Robert Chen, you're authorizing a settlement payment of five hundred forty three dollars and twelve cents to be charged to your card ending in three four. Do you authorize this?",
+    "etime": 194
+  },
+  {
+    "role": "User",
+    "stime": 194,
+    "utterance": "Yes, I do.",
+    "etime": 196
+  },
+  {
+    "role": "Assistant",
+    "stime": 196,
+    "utterance": "Thank you. I'm processing this now. One moment please.",
+    "etime": 208
+  },
+  {
+    "role": "Assistant",
+    "stime": 208,
+    "utterance": "I'm sorry, Robert, but this card has expired as of January twenty twenty four. We're currently in November twenty twenty five, so this card can no longer be used. Do you have another card you could use?",
+    "etime": 223
+  },
+  {
+    "role": "User",
+    "stime": 223,
+    "utterance": "Oh no, that's my only card. I didn't realize it expired.",
+    "etime": 228
+  },
+  {
+    "role": "Assistant",
+    "stime": 228,
+    "utterance": "That's okay, it happens. Most cards are valid for three to four years. You should have received a replacement card from your bank. Do you have that?",
+    "etime": 238
+  },
+  {
+    "role": "User",
+    "stime": 238,
+    "utterance": "I don't think so. Or maybe I threw it away thinking it was junk mail.",
+    "etime": 244
+  },
+  {
+    "role": "Assistant",
+    "stime": 244,
+    "utterance": "I understand. You'll need to contact your bank to get a new card or to find out what the new card number is. Once you have that, you can call us back.",
+    "etime": 255
+  },
+  {
+    "role": "User",
+    "stime": 255,
+    "utterance": "How long is this settlement offer good for?",
+    "etime": 259
+  },
+  {
+    "role": "Assistant",
+    "stime": 259,
+    "utterance": "I can hold this settlement offer for you for seven days. After that, I can't guarantee we'll be able to offer the same discount.",
+    "etime": 268
+  },
+  {
+    "role": "User",
+    "stime": 268,
+    "utterance": "Okay, so I need to call my bank and then call you guys back within a week?",
+    "etime": 274
+  },
+  {
+    "role": "Assistant",
+    "stime": 274,
+    "utterance": "Exactly. And when you call back, just let them know you spoke with Michael about a settlement offer on your Valley Credit Union account.",
+    "etime": 283
+  },
+  {
+    "role": "User",
+    "stime": 283,
+    "utterance": "Alright. Is there a direct number I can call?",
+    "etime": 286
+  },
+  {
+    "role": "Assistant",
+    "stime": 286,
+    "utterance": "You can call this same number, and any agent will be able to access your account and see the notes about the settlement offer.",
+    "etime": 294
+  },
+  {
+    "role": "User",
+    "stime": 294,
+    "utterance": "Okay. And just to be clear, if I pay the five hundred forty three dollars, that completely clears the debt?",
+    "etime": 301
+  },
+  {
+    "role": "Assistant",
+    "stime": 301,
+    "utterance": "Yes, that's correct. The five hundred forty three dollars and twelve cents will settle the account in full, and you won't owe anything more.",
+    "etime": 309
+  },
+  {
+    "role": "User",
+    "stime": 309,
+    "utterance": "And will that go on my credit report as paid?",
+    "etime": 313
+  },
+  {
+    "role": "Assistant",
+    "stime": 313,
+    "utterance": "It will be reported as settled for less than the full balance. That's still much better than having an unpaid collection on your report.",
+    "etime": 322
+  },
+  {
+    "role": "User",
+    "stime": 322,
+    "utterance": "I see. Okay, I'll get a new card and call back.",
+    "etime": 326
+  },
+  {
+    "role": "Assistant",
+    "stime": 326,
+    "utterance": "Perfect. I'll make a note on your account about this conversation and the settlement offer. Remember, you have seven days.",
+    "etime": 334
+  },
+  {
+    "role": "User",
+    "stime": 334,
+    "utterance": "Got it. Thanks.",
+    "etime": 336
+  },
+  {
+    "role": "Assistant",
+    "stime": 336,
+    "utterance": "Is there anything else I can help you with today?",
+    "etime": 339
+  },
+  {
+    "role": "User",
+    "stime": 339,
+    "utterance": "No, that's it.",
+    "etime": 341
+  },
+  {
+    "role": "Assistant",
+    "stime": 341,
+    "utterance": "Thank you for calling, Robert. We look forward to hearing from you soon.",
+    "etime": 346
+  }
+]

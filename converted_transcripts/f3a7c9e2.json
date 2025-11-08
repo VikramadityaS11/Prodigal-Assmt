@@ -1,0 +1,362 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Debt Solutions Inc. This call is being recorded. I'm Sarah, a virtual agent. How can I help you today?",
+    "etime": 8
+  },
+  {
+    "role": "User",
+    "stime": 8,
+    "utterance": "Hi, I received a call from you guys about an outstanding balance.",
+    "etime": 12
+  },
+  {
+    "role": "Assistant",
+    "stime": 12,
+    "utterance": "I can help you with that. To assist you, can you provide me with your phone number?",
+    "etime": 16
+  },
+  {
+    "role": "User",
+    "stime": 16,
+    "utterance": "Yes, it's four one five five five five one two three four.",
+    "etime": 23
+  },
+  {
+    "role": "Assistant",
+    "stime": 23,
+    "utterance": "Thank you. Let me confirm that's four one five five five five one two three four. Is that correct?",
+    "etime": 29
+  },
+  {
+    "role": "User",
+    "stime": 29,
+    "utterance": "Yes.",
+    "etime": 30
+  },
+  {
+    "role": "Assistant",
+    "stime": 30,
+    "utterance": "Could you please provide your full name?",
+    "etime": 32
+  },
+  {
+    "role": "User",
+    "stime": 32,
+    "utterance": "Jennifer Martinez.",
+    "etime": 35
+  },
+  {
+    "role": "Assistant",
+    "stime": 35,
+    "utterance": "And your date of birth?",
+    "etime": 37
+  },
+  {
+    "role": "User",
+    "stime": 37,
+    "utterance": "March fifteenth nineteen ninety two.",
+    "etime": 42
+  },
+  {
+    "role": "Assistant",
+    "stime": 42,
+    "utterance": "Thank you for verifying that information, Jennifer. This is an attempt to collect a debt. I see there's a balance of four hundred fifty two dollars and thirty cents on your account. Would you be able to take care of this today?",
+    "etime": 54
+  },
+  {
+    "role": "User",
+    "stime": 54,
+    "utterance": "Wait, what is this debt for? I don't remember owing anything.",
+    "etime": 59
+  },
+  {
+    "role": "Assistant",
+    "stime": 59,
+    "utterance": "This debt is from an account that was opened in May twenty twenty three. The original creditor was Metro Health Services. Does that sound familiar?",
+    "etime": 69
+  },
+  {
+    "role": "User",
+    "stime": 69,
+    "utterance": "Oh, the medical bill. I thought my insurance covered that.",
+    "etime": 74
+  },
+  {
+    "role": "Assistant",
+    "stime": 74,
+    "utterance": "I understand the confusion. Often there can be remaining balances after insurance payments. This is the outstanding amount that wasn't covered by your insurance provider.",
+    "etime": 84
+  },
+  {
+    "role": "User",
+    "stime": 84,
+    "utterance": "I see. How old is this debt?",
+    "etime": 87
+  },
+  {
+    "role": "Assistant",
+    "stime": 87,
+    "utterance": "The account was opened in May twenty twenty three, so it's been about two and a half years. It was sent to our agency for collection six months ago.",
+    "etime": 97
+  },
+  {
+    "role": "User",
+    "stime": 97,
+    "utterance": "And you said it's four hundred fifty two dollars?",
+    "etime": 101
+  },
+  {
+    "role": "Assistant",
+    "stime": 101,
+    "utterance": "Yes, four hundred fifty two dollars and thirty cents is the current balance.",
+    "etime": 106
+  },
+  {
+    "role": "User",
+    "stime": 106,
+    "utterance": "Is there any interest being added to this?",
+    "etime": 109
+  },
+  {
+    "role": "Assistant",
+    "stime": 109,
+    "utterance": "No, there's no additional interest being added at this time. The balance you see is the total amount owed.",
+    "etime": 116
+  },
+  {
+    "role": "User",
+    "stime": 116,
+    "utterance": "Okay. Um, can I get some kind of proof that this is legitimate?",
+    "etime": 122
+  },
+  {
+    "role": "Assistant",
+    "stime": 122,
+    "utterance": "Absolutely. I can send you a validation letter via email or postal mail that includes all the details of the debt, including the original creditor, the amount, and your rights as a consumer. Would you like me to send that?",
+    "etime": 135
+  },
+  {
+    "role": "User",
+    "stime": 135,
+    "utterance": "Yes, can you email it to me?",
+    "etime": 138
+  },
+  {
+    "role": "Assistant",
+    "stime": 138,
+    "utterance": "I'd be happy to. What's the best email address to send it to?",
+    "etime": 142
+  },
+  {
+    "role": "User",
+    "stime": 142,
+    "utterance": "It's jennifer dot martinez at email dot com.",
+    "etime": 148
+  },
+  {
+    "role": "Assistant",
+    "stime": 148,
+    "utterance": "Perfect. I'll send that to jennifer dot martinez at email dot com. You should receive it within the next few minutes. Now, would you still like to take care of the balance today?",
+    "etime": 159
+  },
+  {
+    "role": "User",
+    "stime": 159,
+    "utterance": "Well, I guess so. But can I ask, are there any payment plan options?",
+    "etime": 165
+  },
+  {
+    "role": "Assistant",
+    "stime": 165,
+    "utterance": "Yes, we do offer payment plans. However, since your balance is under five hundred dollars, we typically recommend paying it in full if possible to close the account completely. But if you need a payment plan, I can set that up for you. What would work better for you?",
+    "etime": 182
+  },
+  {
+    "role": "User",
+    "stime": 182,
+    "utterance": "How would a payment plan work exactly?",
+    "etime": 185
+  },
+  {
+    "role": "Assistant",
+    "stime": 185,
+    "utterance": "We could set up monthly payments over three to six months depending on what you can afford. Each payment would be automatically charged to your card on a specific date each month until the balance is paid off.",
+    "etime": 198
+  },
+  {
+    "role": "User",
+    "stime": 198,
+    "utterance": "And would there be any fees for doing a payment plan?",
+    "etime": 202
+  },
+  {
+    "role": "Assistant",
+    "stime": 202,
+    "utterance": "There are no additional fees for setting up a payment plan. The total amount would still be four hundred fifty two dollars and thirty cents.",
+    "etime": 210
+  },
+  {
+    "role": "User",
+    "stime": 210,
+    "utterance": "Okay. You know what, I think I can just pay it all today. Get it over with.",
+    "etime": 216
+  },
+  {
+    "role": "Assistant",
+    "stime": 216,
+    "utterance": "That's great, Jennifer. That will close the account completely today. I can help you set that up. We accept Visa and Mastercard. Could you please provide your card number?",
+    "etime": 226
+  },
+  {
+    "role": "User",
+    "stime": 226,
+    "utterance": "Sure, it's four five three nine eight seven six five four three two one zero nine eight seven.",
+    "etime": 239
+  },
+  {
+    "role": "Assistant",
+    "stime": 239,
+    "utterance": "Thank you. And the expiration date?",
+    "etime": 242
+  },
+  {
+    "role": "User",
+    "stime": 242,
+    "utterance": "July twenty twenty seven.",
+    "etime": 246
+  },
+  {
+    "role": "Assistant",
+    "stime": 246,
+    "utterance": "Great. And the three digit CVV code on the back?",
+    "etime": 250
+  },
+  {
+    "role": "User",
+    "stime": 250,
+    "utterance": "Two one five.",
+    "etime": 253
+  },
+  {
+    "role": "Assistant",
+    "stime": 253,
+    "utterance": "Is the name on the card Jennifer Martinez?",
+    "etime": 256
+  },
+  {
+    "role": "User",
+    "stime": 256,
+    "utterance": "Yes, that's correct.",
+    "etime": 258
+  },
+  {
+    "role": "Assistant",
+    "stime": 258,
+    "utterance": "Perfect. Just to confirm, the billing address on this card, is it still in San Francisco?",
+    "etime": 264
+  },
+  {
+    "role": "User",
+    "stime": 264,
+    "utterance": "Yes, it is.",
+    "etime": 266
+  },
+  {
+    "role": "Assistant",
+    "stime": 266,
+    "utterance": "Excellent. Now, Jennifer Martinez, today you are authorizing a one-time payment of four hundred fifty two dollars and thirty cents to be charged to your card ending in nine eight seven. Do you authorize this transaction?",
+    "etime": 280
+  },
+  {
+    "role": "User",
+    "stime": 280,
+    "utterance": "Yes, I do.",
+    "etime": 282
+  },
+  {
+    "role": "Assistant",
+    "stime": 282,
+    "utterance": "Thank you. I'm processing your payment now. Please hold for just a moment.",
+    "etime": 292
+  },
+  {
+    "role": "Assistant",
+    "stime": 292,
+    "utterance": "Your payment has been processed successfully. You should receive a confirmation email shortly at jennifer dot martinez at email dot com.",
+    "etime": 302
+  },
+  {
+    "role": "User",
+    "stime": 302,
+    "utterance": "Okay great. So this account is completely closed now?",
+    "etime": 306
+  },
+  {
+    "role": "Assistant",
+    "stime": 306,
+    "utterance": "Yes, your account balance is now zero and the account will be updated as paid in full. This should reflect on your credit report within thirty to sixty days.",
+    "etime": 316
+  },
+  {
+    "role": "User",
+    "stime": 316,
+    "utterance": "Will this help my credit score?",
+    "etime": 319
+  },
+  {
+    "role": "Assistant",
+    "stime": 319,
+    "utterance": "Having the account marked as paid in full is definitely better than having an outstanding collection. While I can't predict exact credit score changes, resolving the debt is a positive step.",
+    "etime": 330
+  },
+  {
+    "role": "User",
+    "stime": 330,
+    "utterance": "Good to know. And I won't get any more calls about this?",
+    "etime": 334
+  },
+  {
+    "role": "Assistant",
+    "stime": 334,
+    "utterance": "That's correct. Since the balance is paid in full, you will not receive any further calls from us regarding this account.",
+    "etime": 341
+  },
+  {
+    "role": "User",
+    "stime": 341,
+    "utterance": "Perfect. Is there anything else I need to do?",
+    "etime": 344
+  },
+  {
+    "role": "Assistant",
+    "stime": 344,
+    "utterance": "No, you're all set. You'll receive that confirmation email, and the validation letter I mentioned earlier will also be sent to you. Keep those for your records.",
+    "etime": 354
+  },
+  {
+    "role": "User",
+    "stime": 354,
+    "utterance": "Okay, thank you.",
+    "etime": 356
+  },
+  {
+    "role": "Assistant",
+    "stime": 356,
+    "utterance": "Is there anything else I can help you with today?",
+    "etime": 359
+  },
+  {
+    "role": "User",
+    "stime": 359,
+    "utterance": "No, that's all. Thank you.",
+    "etime": 361
+  },
+  {
+    "role": "Assistant",
+    "stime": 361,
+    "utterance": "Thank you for your payment, Jennifer. Have a great day!",
+    "etime": 366
+  }
+]

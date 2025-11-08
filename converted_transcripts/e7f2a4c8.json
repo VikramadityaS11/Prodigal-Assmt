@@ -1,0 +1,350 @@
+[
+  {
+    "role": "Assistant",
+    "stime": 0,
+    "utterance": "Thank you for calling Premier Collections. I'm Jessica, a virtual agent. How may I assist you?",
+    "etime": 7
+  },
+  {
+    "role": "User",
+    "stime": 7,
+    "utterance": "I've been getting calls nonstop. What do you want?",
+    "etime": 11
+  },
+  {
+    "role": "Assistant",
+    "stime": 11,
+    "utterance": "I apologize for any inconvenience. I can help you with this. May I have your phone number to look up your account?",
+    "etime": 18
+  },
+  {
+    "role": "User",
+    "stime": 18,
+    "utterance": "Fine. It's eight five eight three three three nine nine nine nine.",
+    "etime": 25
+  },
+  {
+    "role": "Assistant",
+    "stime": 25,
+    "utterance": "Thank you. Let me confirm, eight five eight three three three nine nine nine nine?",
+    "etime": 31
+  },
+  {
+    "role": "User",
+    "stime": 31,
+    "utterance": "Yes, that's what I said.",
+    "etime": 33
+  },
+  {
+    "role": "Assistant",
+    "stime": 33,
+    "utterance": "I appreciate your patience. Can I have your full name?",
+    "etime": 37
+  },
+  {
+    "role": "User",
+    "stime": 37,
+    "utterance": "Why do you need all this? You called me.",
+    "etime": 40
+  },
+  {
+    "role": "Assistant",
+    "stime": 40,
+    "utterance": "I understand your frustration. I need to verify your identity to discuss your account details. May I have your name?",
+    "etime": 48
+  },
+  {
+    "role": "User",
+    "stime": 48,
+    "utterance": "Maria Rodriguez.",
+    "etime": 51
+  },
+  {
+    "role": "Assistant",
+    "stime": 51,
+    "utterance": "Thank you, Maria. And your date of birth for verification?",
+    "etime": 55
+  },
+  {
+    "role": "User",
+    "stime": 55,
+    "utterance": "This is ridiculous. November third nineteen ninety one.",
+    "etime": 62
+  },
+  {
+    "role": "Assistant",
+    "stime": 62,
+    "utterance": "Thank you for verifying that information, Maria. This is an attempt to collect a debt. I see there's a balance of three hundred eighty seven dollars and twenty cents. Would you be able to take care of this today?",
+    "etime": 76
+  },
+  {
+    "role": "User",
+    "stime": 76,
+    "utterance": "What even is this for?",
+    "etime": 79
+  },
+  {
+    "role": "Assistant",
+    "stime": 79,
+    "utterance": "This is from a retail account with Fashion Plus that was charged off in April of twenty twenty five. The account went into collections due to non-payment.",
+    "etime": 90
+  },
+  {
+    "role": "User",
+    "stime": 90,
+    "utterance": "I returned all that stuff I bought. This shouldn't even be here.",
+    "etime": 95
+  },
+  {
+    "role": "Assistant",
+    "stime": 95,
+    "utterance": "I understand your concern. Do you have any documentation of the returns, such as receipts or confirmation numbers?",
+    "etime": 103
+  },
+  {
+    "role": "User",
+    "stime": 103,
+    "utterance": "That was months ago. I don't keep receipts that long.",
+    "etime": 108
+  },
+  {
+    "role": "Assistant",
+    "stime": 108,
+    "utterance": "I see. Unfortunately, without proof of return, the charges remain valid. However, you could contact Fashion Plus directly to dispute the charges if you believe they're in error.",
+    "etime": 120
+  },
+  {
+    "role": "User",
+    "stime": 120,
+    "utterance": "I don't have time for all that. How many times a day are you people going to call me?",
+    "etime": 126
+  },
+  {
+    "role": "Assistant",
+    "stime": 126,
+    "utterance": "I apologize if you've been receiving multiple calls. We typically attempt to reach debtors a few times per week if we don't make contact. If I pay this, will you stop calling me?",
+    "etime": 139
+  },
+  {
+    "role": "Assistant",
+    "stime": 139,
+    "utterance": "Yes, once the balance is paid in full, you won't receive any further calls about this account. Would you like to make a payment now?",
+    "etime": 147
+  },
+  {
+    "role": "User",
+    "stime": 147,
+    "utterance": "And this will stop immediately? Like today?",
+    "etime": 151
+  },
+  {
+    "role": "Assistant",
+    "stime": 151,
+    "utterance": "Once the payment is processed, which happens immediately, the account will be marked as paid and removed from our active calling list within twenty four hours.",
+    "etime": 161
+  },
+  {
+    "role": "User",
+    "stime": 161,
+    "utterance": "Fine. What are my options?",
+    "etime": 164
+  },
+  {
+    "role": "Assistant",
+    "stime": 164,
+    "utterance": "You can pay the full amount of three hundred eighty seven dollars and twenty cents today, or we can set up a payment plan. Which would you prefer?",
+    "etime": 174
+  },
+  {
+    "role": "User",
+    "stime": 174,
+    "utterance": "How much would payments be?",
+    "etime": 177
+  },
+  {
+    "role": "Assistant",
+    "stime": 177,
+    "utterance": "We could do monthly payments of around sixty five to seventy dollars over six months, or we could do higher payments over a shorter period. What works better for your budget?",
+    "etime": 189
+  },
+  {
+    "role": "User",
+    "stime": 189,
+    "utterance": "If I pay it all today, you're absolutely sure the calls will stop?",
+    "etime": 194
+  },
+  {
+    "role": "Assistant",
+    "stime": 194,
+    "utterance": "Yes, I can guarantee that once this is paid in full, you will not receive any more calls from us about this account.",
+    "etime": 202
+  },
+  {
+    "role": "User",
+    "stime": 202,
+    "utterance": "Okay. Yes. Let's just get this over with.",
+    "etime": 206
+  },
+  {
+    "role": "Assistant",
+    "stime": 206,
+    "utterance": "I appreciate that. We accept Visa and Mastercard. What card would you like to use?",
+    "etime": 212
+  },
+  {
+    "role": "User",
+    "stime": 212,
+    "utterance": "Visa. The number is five four seven six three two one zero nine eight seven six five four three two.",
+    "etime": 224
+  },
+  {
+    "role": "Assistant",
+    "stime": 224,
+    "utterance": "Thank you. And the expiration date?",
+    "etime": 227
+  },
+  {
+    "role": "User",
+    "stime": 227,
+    "utterance": "August twenty twenty eight.",
+    "etime": 231
+  },
+  {
+    "role": "Assistant",
+    "stime": 231,
+    "utterance": "And the CVV code?",
+    "etime": 233
+  },
+  {
+    "role": "User",
+    "stime": 233,
+    "utterance": "What's that again?",
+    "etime": 235
+  },
+  {
+    "role": "Assistant",
+    "stime": 235,
+    "utterance": "It's the three digit security code on the back of your card, usually to the right of the signature strip.",
+    "etime": 242
+  },
+  {
+    "role": "User",
+    "stime": 242,
+    "utterance": "Oh, right. Seven eight nine.",
+    "etime": 246
+  },
+  {
+    "role": "Assistant",
+    "stime": 246,
+    "utterance": "Thank you. Is the card in the name Maria Rodriguez?",
+    "etime": 250
+  },
+  {
+    "role": "User",
+    "stime": 250,
+    "utterance": "Yes.",
+    "etime": 251
+  },
+  {
+    "role": "Assistant",
+    "stime": 251,
+    "utterance": "And can you confirm the billing address for this card?",
+    "etime": 255
+  },
+  {
+    "role": "User",
+    "stime": 255,
+    "utterance": "Why do you need that?",
+    "etime": 257
+  },
+  {
+    "role": "Assistant",
+    "stime": 257,
+    "utterance": "It's for verification purposes to ensure the card is valid and belongs to you.",
+    "etime": 263
+  },
+  {
+    "role": "User",
+    "stime": 263,
+    "utterance": "It's five six seven eight Oak Avenue, San Diego, California, nine two one zero one.",
+    "etime": 273
+  },
+  {
+    "role": "Assistant",
+    "stime": 273,
+    "utterance": "Thank you. Maria Rodriguez, today you are authorizing a payment of three hundred eighty seven dollars and twenty cents to your card ending in three two. Do you authorize this?",
+    "etime": 286
+  },
+  {
+    "role": "User",
+    "stime": 286,
+    "utterance": "Yes, just process it.",
+    "etime": 289
+  },
+  {
+    "role": "Assistant",
+    "stime": 289,
+    "utterance": "Thank you. I'm processing your payment now. Please hold.",
+    "etime": 301
+  },
+  {
+    "role": "Assistant",
+    "stime": 301,
+    "utterance": "Your payment has been processed successfully. You'll receive confirmation via email. What email address should I send that to?",
+    "etime": 311
+  },
+  {
+    "role": "User",
+    "stime": 311,
+    "utterance": "maria dot rodriguez eighty seven at email dot com.",
+    "etime": 318
+  },
+  {
+    "role": "Assistant",
+    "stime": 318,
+    "utterance": "Perfect. I'm sending the confirmation to maria dot rodriguez eighty seven at email dot com. You should receive it within the next few minutes.",
+    "etime": 328
+  },
+  {
+    "role": "User",
+    "stime": 328,
+    "utterance": "Finally. We're done here?",
+    "etime": 331
+  },
+  {
+    "role": "Assistant",
+    "stime": 331,
+    "utterance": "Yes, we're all set. Your account is now paid in full. Is there anything else I can help you with?",
+    "etime": 338
+  },
+  {
+    "role": "User",
+    "stime": 338,
+    "utterance": "No, I just want to make sure I won't get any more calls.",
+    "etime": 342
+  },
+  {
+    "role": "Assistant",
+    "stime": 342,
+    "utterance": "You won't receive any more calls from us about this account. The system will be updated within twenty four hours.",
+    "etime": 349
+  },
+  {
+    "role": "User",
+    "stime": 349,
+    "utterance": "Good. That's all I wanted.",
+    "etime": 352
+  },
+  {
+    "role": "Assistant",
+    "stime": 352,
+    "utterance": "I understand. Thank you for taking care of this, Maria. Have a good day.",
+    "etime": 357
+  },
+  {
+    "role": "User",
+    "stime": 357,
+    "utterance": "Yeah. Bye.",
+    "etime": 362
+  }
+]
