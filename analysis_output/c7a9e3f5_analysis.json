@@ -1,0 +1,61 @@
+{
+  "payment_attempted": true,
+  "customer_intent": true,
+  "customer_sentiment": {
+    "classification": "Neutral",
+    "description": "The customer was cooperative and asked questions to understand the payment plan, but also expressed hesitation and requested to call back later to discuss further."
+  },
+  "agent_performance": "The agent was patient and helpful, providing clear explanations and answering the customer's questions.",
+  "timestamped_events": [
+    {
+      "timestamp": "0:08",
+      "event_type": "disclosure",
+      "description": "The agent introduced themselves and the company."
+    },
+    {
+      "timestamp": "0:14",
+      "event_type": "customer_intent",
+      "description": "The customer expressed their intention to make a payment."
+    },
+    {
+      "timestamp": "0:47",
+      "event_type": "disclosure",
+      "description": "The agent disclosed the debt amount and the customer's account information."
+    },
+    {
+      "timestamp": "0:61",
+      "event_type": "offer_negotiation",
+      "description": "The agent offered a payment plan to the customer."
+    },
+    {
+      "timestamp": "1:05",
+      "event_type": "payment_setup_attempt",
+      "description": "The agent attempted to set up a payment plan with the customer."
+    },
+    {
+      "timestamp": "1:27",
+      "event_type": "frustration_hostility",
+      "description": "The customer expressed frustration with the payment plan options."
+    },
+    {
+      "timestamp": "1:44",
+      "event_type": "payment_setup_attempt",
+      "description": "The agent attempted to set up a one-time payment with the customer."
+    },
+    {
+      "timestamp": "2:13",
+      "event_type": "payment_setup_attempt",
+      "description": "The agent confirmed the one-time payment with the customer."
+    },
+    {
+      "timestamp": "2:26",
+      "event_type": "payment_setup_attempt",
+      "description": "The agent processed the one-time payment."
+    },
+    {
+      "timestamp": "2:41",
+      "event_type": "disclosure",
+      "description": "The agent disclosed the updated balance after the payment."
+    }
+  ]
+}

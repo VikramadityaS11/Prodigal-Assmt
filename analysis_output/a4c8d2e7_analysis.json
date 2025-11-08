@@ -1,0 +1,31 @@
+{
+  "payment_attempted": true,
+  "customer_intent": true,
+  "customer_sentiment": {
+    "classification": "Frustrated",
+    "description": "The customer showed frustration due to the inability to pay with their current card and the inconvenience it caused."
+  },
+  "agent_performance": "The agent performed well, explaining the situation clearly and offering alternatives, but was limited by the system's requirements for a valid card number.",
+  "timestamped_events": [
+    {
+      "timestamp": "0:41",
+      "event_type": "disclosure",
+      "description": "The agent disclosed the debt collection attempt and the current balance."
+    },
+    {
+      "timestamp": "0:57",
+      "event_type": "offer_negotiation",
+      "description": "The agent offered to reduce the balance in exchange for immediate payment."
+    },
+    {
+      "timestamp": "1:10",
+      "event_type": "payment_setup_attempt",
+      "description": "The customer attempted to make a payment, but the card number was invalid."
+    },
+    {
+      "timestamp": "2:13",
+      "event_type": "frustration_hostility",
+      "description": "The customer expressed frustration due to the inability to pay with their current card."
+    }
+  ]
+}

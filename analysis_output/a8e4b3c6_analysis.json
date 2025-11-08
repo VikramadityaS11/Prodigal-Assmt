@@ -1,0 +1,41 @@
+{
+  "payment_attempted": true,
+  "customer_intent": true,
+  "customer_sentiment": {
+    "classification": "Frustrated",
+    "description": "The customer was attempting to make a payment but was unable to due to an issue with their credit card number, leading to frustration."
+  },
+  "agent_performance": "The agent was patient and apologetic, but the customer's issue could not be resolved due to a technical limitation with the payment system.",
+  "timestamped_events": [
+    {
+      "timestamp": "0:08",
+      "event_type": "disclosure",
+      "description": "The assistant introduced themselves and the purpose of the call."
+    },
+    {
+      "timestamp": "0:59",
+      "event_type": "disclosure",
+      "description": "The assistant disclosed the debt and the amount owed."
+    },
+    {
+      "timestamp": "1:28",
+      "event_type": "payment_setup_attempt",
+      "description": "The customer attempted to make a payment but provided an invalid credit card number."
+    },
+    {
+      "timestamp": "2:43",
+      "event_type": "frustration_hostility",
+      "description": "The customer expressed frustration with the situation and the inability to make a payment."
+    },
+    {
+      "timestamp": "4:08",
+      "event_type": "offer_negotiation",
+      "description": "The agent offered alternative solutions, including contacting the bank to verify the card number."
+    },
+    {
+      "timestamp": "4:57",
+      "event_type": "frustration_hostility",
+      "description": "The customer continued to express frustration and ended the call."
+    }
+  ]
+}
