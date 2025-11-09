@@ -157,7 +157,3 @@ The application integrates with a payment validation API:
 - Card numbers are masked in the display
 - Sensitive data is handled securely
 - API responses are validated before display
-
-## License
-
-This project is proprietary and confidential. All rights reserved.
