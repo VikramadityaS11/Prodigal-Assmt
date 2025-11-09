@@ -2,6 +2,22 @@
 
 A Streamlit-based web application for analyzing call transcripts, extracting payment information, and validating payment details. The application uses Groq LLM for natural language processing and integrates with a payment validation API.
 
+
+##Screenshots
+
+- **Uploading JSON Transcript**:
+![App Screenshot](assets/ss_1.png)
+
+- **Output**:
+![App Screenshot](assets/ss_2.png)
+
+- **Pasting JSON Transcript and Output**:
+![App Screenshot](assets/ss_3.png)
+
+
+
+
+
 ## Features
 
 - **Dual Analysis System**:
