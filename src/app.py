@@ -1,10 +1,15 @@
 import streamlit as st
 import json
-import pandas as pd
 from task2 import run_llm, parse_tool_call, call_payment_api
 import os
 
-st.set_page_config(page_title="Call Analysis Dashboard", page_icon="📞", layout="wide")
+# Configure page to minimize dynamic imports
+st.set_page_config(
+    page_title="Call Analysis Dashboard",
+    page_icon="📞",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
 def analyze_transcript(transcript_text, filename=None):
     # Task 2: Payment Analysis
@@ -137,6 +142,20 @@ else:  # Paste Transcript
             st.markdown(f'<div style="padding: 10px; border-radius: 5px; background-color: {color}; color: white;">'
                       f'{json.dumps(api_response, indent=2)}</div>', unsafe_allow_html=True)
 
-# Footer
-st.markdown("---")
-st.markdown("Call Analysis Tool - Powered by Groq LLM")
+# Footer with custom CSS to prevent dynamic loading issues
+st.markdown("""
+<style>
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        background-color: white;
+        border-top: 1px solid #e5e5e5;
+    }
+</style>
+<div class="footer">
+    Call Analysis Tool - Powered by Groq LLM
+</div>
+""", unsafe_allow_html=True)
